@@ -1,0 +1,20 @@
+{
+  "2715e9911b1b46d497577c78a9356f5c": {
+    "09b4fae9-f7b2-4096-bc8f-68cdc98720ff": {
+      "faction": "MAGE",
+      "kuudraPet": {
+        "tier": "UNCOMMON",
+        "name": "[Lvl 100] Kuudra",
+        "type": "KUUDRA",
+        "exp": 2.5362140205769874E7
+      },
+      "kuudraKeyPrices": {
+        "KUUDRA_BURNING_TIER_KEY": 750000,
+        "KUUDRA_TIER_KEY": 200000,
+        "KUUDRA_INFERNAL_TIER_KEY": 3000000,
+        "KUUDRA_FIERY_TIER_KEY": 1500000,
+        "KUUDRA_HOT_TIER_KEY": 400000
+      }
+    }
+  }
+}

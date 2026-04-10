@@ -1,0 +1,18 @@
+{
+  "lastUpdate": 1772381264027,
+  "commitHash": "d432438d6e4477fcc0501e2e935ab0c6c77439ba",
+  "parentRepo": "SkyblockTweaks/data#main",
+  "loadedFromFallback": false,
+  "specVersion": 1,
+  "constantsDirectory": "constants",
+  "providedFiles": [
+    "skills.json",
+    "pets.json",
+    "garden.json",
+    "slayers.json",
+    "hotm.json",
+    "disabledFeatures.json",
+    "minions.json",
+    "reforges.json"
+  ]
+}

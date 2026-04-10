@@ -1,0 +1,17 @@
+{
+  "2715e9911b1b46d497577c78a9356f5c": {
+    "09b4fae9-f7b2-4096-bc8f-68cdc98720ff": {
+      "M7": {
+        "skyblocker.dungeons.splits.goldor": 10644,
+        "skyblocker.dungeons.splits.witherKing": 61608,
+        "skyblocker.dungeons.splits.necron": 33786,
+        "skyblocker.dungeons.splits.maxor": 26509,
+        "skyblocker.dungeons.splits.terminals": 69269,
+        "skyblocker.dungeons.splits.storm": 49301,
+        "skyblocker.dungeons.splits.portalEntry": 4778,
+        "skyblocker.dungeons.splits.bloodClear": 67445,
+        "skyblocker.dungeons.splits.bloodOpen": 18465
+      }
+    }
+  }
+}

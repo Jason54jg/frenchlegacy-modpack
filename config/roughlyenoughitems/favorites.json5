@@ -1,0 +1,9 @@
+{
+	"favorites": [
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"SPEED_WITHER_BOOTS\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"PLANT_DIAGNOSTICS_TOOL\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"null\"}},type:\"roughlyenoughitems:entry_stack\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": []
+}

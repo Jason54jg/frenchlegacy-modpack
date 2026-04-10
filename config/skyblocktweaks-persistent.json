@@ -1,0 +1,27 @@
+{
+	"profiles": {
+		"09b4fae9-f7b2-4096-bc8f-68cdc98720ff": {
+			"skillLevels": {},
+			"skillWisdom": {
+				"COMBAT": 106,
+				"MINING": 51,
+				"FARMING": 48,
+				"FORAGING": 115,
+				"FISHING": 55,
+				"ENCHANTING": 51,
+				"ALCHEMY": 50,
+				"TAMING": 35,
+				"CARPENTRY": 28,
+				"RUNECRAFTING": 29,
+				"SOCIAL": 26,
+				"HUNTING": 38
+			},
+			"lastGaveFetchurItem": 1
+		},
+		"09b4fae9-f7b2-4096-bc8f-68cdc98720ff_ALPHA": {
+			"skillLevels": {},
+			"skillWisdom": {},
+			"lastGaveFetchurItem": 1
+		}
+	}
+}

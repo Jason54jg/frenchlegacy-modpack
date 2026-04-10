@@ -1,0 +1,487 @@
+{
+  "players": {
+    "2715e991-1b1b-46d4-9757-7c78a9356f5c": {
+      "profiles": {
+        "cucumber": {
+          "pets": [
+            {
+              "petInternalName": "FLYING_FISH;5",
+              "heldItemInternalName": "DWARF_TURTLE_SHELMET",
+              "exp": 2.7577847434700006E8,
+              "uuid": "17495034-5e38-4a6f-a335-f259c2a4072b"
+            },
+            {
+              "petInternalName": "JELLYFISH;4",
+              "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
+              "exp": 3.2201337891095325E7,
+              "uuid": "674ab63f-3261-4b7e-be31-692de2d6caab"
+            },
+            {
+              "petInternalName": "SCATHA;4",
+              "skinInternalName": "PET_SKIN_SCATHA_ALBINO",
+              "heldItemInternalName": "PET_ITEM_QUICK_CLAW",
+              "exp": 1.840003141605488E9,
+              "uuid": "6245a9ad-5fca-415a-bb54-4dfc5234e2b8"
+            },
+            {
+              "petInternalName": "BAT;5",
+              "exp": 3.566730364975743E7,
+              "uuid": "de37e759-8cf6-4b94-a328-099f1517e023"
+            },
+            {
+              "petInternalName": "ENDERMAN;5",
+              "skinInternalName": "PET_SKIN_ENDERMAN_SLAYER",
+              "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
+              "exp": 1.2996826933101484E8,
+              "uuid": "c10db228-3c36-4cce-8172-b4d820aa8efe"
+            },
+            {
+              "petInternalName": "ENDERMITE;5",
+              "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+              "exp": 2.5384165779295545E7,
+              "uuid": "0a6f56d4-ab6a-428d-a090-167d76d169cd"
+            },
+            {
+              "petInternalName": "GRIFFIN;5",
+              "heldItemInternalName": "PET_ITEM_LUCKY_CLOVER",
+              "exp": 3.0691477568471085E7,
+              "uuid": "dc33cd8d-4e26-4f6f-9a95-2a19a44c118d"
+            },
+            {
+              "petInternalName": "GUARDIAN;5",
+              "exp": 4.6931660505686605E8,
+              "uuid": "47a4cb6f-4196-4f93-b1c7-b78cf85f4269"
+            },
+            {
+              "petInternalName": "HERMIT_CRAB;5",
+              "heldItemInternalName": "PET_ITEM_FISHING_SKILL_BOOST_EPIC",
+              "exp": 2.5460834627001826E7,
+              "uuid": "88f4d2e9-efda-494e-a194-46449297fe6a"
+            },
+            {
+              "petInternalName": "JERRY;5",
+              "exp": 2.576346027135041E7,
+              "uuid": "5a39a952-4c45-4d62-9448-af1f423d7bce"
+            },
+            {
+              "petInternalName": "MITHRIL_GOLEM;5",
+              "heldItemInternalName": "BEJEWELED_COLLAR",
+              "exp": 4.282497139369359E8,
+              "uuid": "1b795e2a-a31a-43dc-aced-135eceea0abe"
+            },
+            {
+              "petInternalName": "RABBIT;5",
+              "heldItemInternalName": "YELLOW_BANDANA",
+              "exp": 1.7208777191758603E8,
+              "uuid": "006b0c6f-1a38-474a-ae10-c33e0c992a8d"
+            },
+            {
+              "petInternalName": "SNOWMAN;5",
+              "exp": 2.5637165768809173E7,
+              "uuid": "365d966a-095a-43ae-a534-3543f9dfc47d"
+            },
+            {
+              "petInternalName": "SPIDER;5",
+              "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
+              "exp": 2.6295801686684642E7,
+              "uuid": "2cb4c6d3-cc0d-4f12-8070-7ed3d82f1a20"
+            },
+            {
+              "petInternalName": "TARANTULA;5",
+              "heldItemInternalName": "CROCHET_TIGER_PLUSHIE",
+              "exp": 2.798696345318384E7,
+              "uuid": "c2fda183-b05a-45cc-8e21-da0d0619666f"
+            },
+            {
+              "petInternalName": "GOLDEN_DRAGON;4",
+              "heldItemInternalName": "MINOS_RELIC",
+              "exp": 2.7017398555200905E8,
+              "uuid": "01687e49-fff6-4ede-b6b1-9f95044b0b32"
+            },
+            {
+              "petInternalName": "AMMONITE;4",
+              "heldItemInternalName": "DWARF_TURTLE_SHELMET",
+              "exp": 1.1094022916150579E8,
+              "uuid": "512be74e-94f8-47ca-883a-206e3e39e795"
+            },
+            {
+              "petInternalName": "ARMADILLO;4",
+              "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_COMMON",
+              "exp": 2.5578079720282383E7,
+              "uuid": "cdd56b16-ceb8-44c4-8983-cc148ea9762f"
+            },
+            {
+              "petInternalName": "BABY_YETI;4",
+              "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
+              "exp": 2.8101640010982037E7,
+              "uuid": "118109a2-cf54-4060-aaf4-227fdd3730ec"
+            },
+            {
+              "petInternalName": "BAL;4",
+              "heldItemInternalName": "BEJEWELED_COLLAR",
+              "exp": 6.456060458288046E7,
+              "uuid": "b351520e-175a-4529-bca0-46987b0abfb6"
+            },
+            {
+              "petInternalName": "BLUE_WHALE;4",
+              "skinInternalName": "PET_SKIN_WHALE_COSMIC",
+              "heldItemInternalName": "PET_ITEM_EXP_SHARE",
+              "exp": 4.5812067862071976E7,
+              "uuid": "bd854252-815a-4c74-8736-9b43fca98523"
+            },
+            {
+              "petInternalName": "DOLPHIN;4",
+              "heldItemInternalName": "PET_ITEM_FISHING_SKILL_BOOST_RARE",
+              "exp": 2.542895937595518E7,
+              "uuid": "64462e31-6f7d-4655-9467-bde6dc53e1e7"
+            },
+            {
+              "petInternalName": "ELEPHANT;4",
+              "heldItemInternalName": "GREEN_BANDANA",
+              "exp": 1.413512479504205E9,
+              "uuid": "f20b3794-756c-41d0-a322-ad1bde5ac3c3"
+            },
+            {
+              "petInternalName": "ENDER_DRAGON;4",
+              "skinInternalName": "PET_SKIN_ENDER_DRAGON_BABY",
+              "heldItemInternalName": "CROCHET_TIGER_PLUSHIE",
+              "exp": 5.234842753187685E7,
+              "uuid": "cf1ef52e-d6b9-4eea-ac84-fe0bcd3c1682"
+            },
+            {
+              "petInternalName": "GHOUL;4",
+              "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
+              "exp": 2.793983716309242E7,
+              "uuid": "4bb6fa85-0691-404f-8bcc-6cf1fa036fdc"
+            },
+            {
+              "petInternalName": "GLACITE_GOLEM;4",
+              "heldItemInternalName": "BEJEWELED_COLLAR",
+              "exp": 1.1394317371645865E9,
+              "uuid": "637db8f4-6bb8-4290-8f89-c882f7733ec9"
+            },
+            {
+              "petInternalName": "GOBLIN;4",
+              "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+              "exp": 2.7214368818219014E7,
+              "uuid": "b0d836cb-93ae-47c7-8447-efca7232f7c2"
+            },
+            {
+              "petInternalName": "HEDGEHOG;4",
+              "heldItemInternalName": "GREEN_BANDANA",
+              "exp": 7.77959071025378E7,
+              "uuid": "ef5fbdbd-90da-474d-b37b-109a52665027"
+            },
+            {
+              "petInternalName": "HOUND;4",
+              "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
+              "exp": 2.7248866201289244E7,
+              "uuid": "32344c2c-d7ee-4a7e-be70-31ebc4491384"
+            },
+            {
+              "petInternalName": "PHOENIX;4",
+              "heldItemInternalName": "DWARF_TURTLE_SHELMET",
+              "exp": 2.1293977346527986E7,
+              "uuid": "f642d7e7-e1a7-4b4b-a136-64a157db7bc6"
+            },
+            {
+              "petInternalName": "SPIRIT;4",
+              "heldItemInternalName": "PET_ITEM_EXP_SHARE",
+              "exp": 4.835439624357251E7,
+              "uuid": "73ae4e4c-b406-4901-9bf8-9506d1c90c04"
+            },
+            {
+              "petInternalName": "MITHRIL_GOLEM;4",
+              "exp": 8.829590808513446E7,
+              "uuid": "61379d60-4a50-4c4b-9dcd-c9aa3b99c3b8"
+            },
+            {
+              "petInternalName": "MOLE;4",
+              "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+              "exp": 2.6056423160741765E7,
+              "uuid": "9ea64fb4-8059-4765-8116-d85e97248c3f"
+            },
+            {
+              "petInternalName": "MOOSHROOM_COW;4",
+              "heldItemInternalName": "GREEN_BANDANA",
+              "exp": 4.2751557285048395E7,
+              "uuid": "453e2e01-8837-435e-9efd-05c5b7613834"
+            },
+            {
+              "petInternalName": "OCELOT;4",
+              "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_COMMON",
+              "exp": 1.4474260892939228E8,
+              "uuid": "fd8f4cc2-ab36-413f-bc17-6f6265709f6e"
+            },
+            {
+              "petInternalName": "PARROT;4",
+              "heldItemInternalName": "PET_ITEM_TEXTBOOK",
+              "exp": 3.252638344825236E7,
+              "uuid": "2c806282-fca5-4c09-b59e-4596c854f913"
+            },
+            {
+              "petInternalName": "PENGUIN;4",
+              "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+              "exp": 2.5387195031842057E7,
+              "uuid": "b6e64d33-d0aa-4699-94af-104d457331c0"
+            },
+            {
+              "petInternalName": "PIG;4",
+              "exp": 3.63259140096567E7,
+              "uuid": "2753c998-c95a-46b0-b651-baa31057219f"
+            },
+            {
+              "petInternalName": "PIGMAN;4",
+              "exp": 3.6840806156135574E7,
+              "uuid": "3e3f7657-8460-477f-8dd2-96a4fb939e96"
+            },
+            {
+              "petInternalName": "REINDEER;4",
+              "heldItemInternalName": "WASHED_UP_SOUVENIR",
+              "exp": 3.421019155677094E7,
+              "uuid": "7bcc2b6f-1322-4e4f-bb86-5cd2920c5b5d"
+            },
+            {
+              "petInternalName": "SHEEP;4",
+              "heldItemInternalName": "PET_ITEM_TEXTBOOK",
+              "exp": 2.5512557526311833E7,
+              "uuid": "c8a6cc6a-33f7-4450-916a-3d2b9cd69416"
+            },
+            {
+              "petInternalName": "SILVERFISH;4",
+              "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_COMMON",
+              "exp": 3.906318101954792E7,
+              "uuid": "49791a2e-1581-44c1-a3a4-49c7188b66f6"
+            },
+            {
+              "petInternalName": "SLUG;4",
+              "heldItemInternalName": "BROWN_BANDANA",
+              "exp": 2.8714719415467855E7,
+              "uuid": "ffd7b86a-9251-4103-a3e9-ee031e3b12ae"
+            },
+            {
+              "petInternalName": "SPINOSAURUS;4",
+              "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+              "exp": 2.5355802685271896E7,
+              "uuid": "a1c26c92-9866-4afa-a12c-ff8ef8761ba6"
+            },
+            {
+              "petInternalName": "SQUID;4",
+              "heldItemInternalName": "DWARF_TURTLE_SHELMET",
+              "exp": 2.150648411623529E8,
+              "uuid": "b669acc5-09f4-40b2-88db-21d555fd3543"
+            },
+            {
+              "petInternalName": "SUBZERO_WISP;4",
+              "heldItemInternalName": "DWARF_TURTLE_SHELMET",
+              "exp": 2.592079872E7,
+              "uuid": "cebf0403-ea09-4ec9-9181-a30e713bd41f"
+            },
+            {
+              "petInternalName": "TYRANNOSAURUS;4",
+              "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+              "exp": 2.5397094318339035E7,
+              "uuid": "db15e91f-79c0-41b6-85a8-5d90ba402b43"
+            },
+            {
+              "petInternalName": "WITHER_SKELETON;4",
+              "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+              "exp": 2.5679944977313913E7,
+              "uuid": "3651a8c5-c557-4bf5-a722-48cbffae1abb"
+            },
+            {
+              "petInternalName": "WOLF;4",
+              "heldItemInternalName": "DWARF_TURTLE_SHELMET",
+              "exp": 3.362832950838471E7,
+              "uuid": "f09250f2-4245-49f1-8914-3680a174ee18"
+            },
+            {
+              "petInternalName": "ZOMBIE;4",
+              "exp": 1.0975567504350157E8,
+              "uuid": "f5dfe90f-d58a-4f22-9ca1-101b1a824174"
+            },
+            {
+              "petInternalName": "SNAIL;4",
+              "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+              "exp": 2.1959932121968355E7,
+              "uuid": "0e2089cb-f851-449a-88e7-20deb3772058"
+            },
+            {
+              "petInternalName": "MEGALODON;4",
+              "heldItemInternalName": "PET_ITEM_FISHING_SKILL_BOOST_RARE",
+              "exp": 1.6113181698698895E7,
+              "uuid": "b2d939e2-74b0-4a50-bf8a-485fae83d508"
+            },
+            {
+              "petInternalName": "FROG;4",
+              "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
+              "exp": 1.4882483993166065E7,
+              "uuid": "828925ec-4bc8-4bb1-a6ec-00357dfc9f95"
+            },
+            {
+              "petInternalName": "TIGER;4",
+              "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
+              "exp": 1.103530350702829E7,
+              "uuid": "3d774d00-6ea3-4e86-94f4-39d1f5c6bd80"
+            },
+            {
+              "petInternalName": "MONKEY;4",
+              "skinInternalName": "PET_SKIN_MONKEY_LEMUR",
+              "exp": 1.0011133309240922E7,
+              "uuid": "ab5120d4-5bf0-4adc-b151-2f517549e272"
+            },
+            {
+              "petInternalName": "ROCK;4",
+              "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+              "exp": 9774198.242993776,
+              "uuid": "b965646b-3da0-4cca-8968-a995c4fe6df8"
+            },
+            {
+              "petInternalName": "BLAZE;4",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "DWARF_TURTLE_SHELMET",
+              "exp": 9086690.216736928,
+              "uuid": "cccc7679-6a72-4d78-991e-647dd46a2679"
+            },
+            {
+              "petInternalName": "TURTLE;4",
+              "skinInternalName": "PET_SKIN_TURTLE_ANCIENT",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_SPOOKY_CUPCAKE",
+              "exp": 9101855.402074281,
+              "uuid": "7c4423a5-e899-4310-84dc-856f2d6bd054"
+            },
+            {
+              "petInternalName": "RAT;4",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
+              "exp": 7259137.3659217935,
+              "uuid": "1a3397d0-7e4b-4cb7-9a11-f8331d6e7cc3"
+            },
+            {
+              "petInternalName": "OWL;4",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+              "exp": 3626764.7819519695,
+              "uuid": "1208bb79-41ed-42bf-a183-7cddadde2653"
+            },
+            {
+              "petInternalName": "MAGMA_CUBE;4",
+              "skinVariantIndex": -1,
+              "exp": 3012019.6877201567,
+              "uuid": "24fb723f-2578-4af3-9027-980d4911a8bc"
+            },
+            {
+              "petInternalName": "MAMMOTH;4",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
+              "exp": 2487488.132288029,
+              "uuid": "4c61dd9a-f6d3-4f21-b87c-1f04f17243d5"
+            },
+            {
+              "petInternalName": "BEE;4",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
+              "exp": 2335042.31566338,
+              "uuid": "2b104727-4206-4c85-bd30-f47798b47ac1"
+            },
+            {
+              "petInternalName": "CHICKEN;4",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
+              "exp": 961921.3378003105,
+              "uuid": "6a45bad6-16c3-487b-b591-e7540c31b933"
+            },
+            {
+              "petInternalName": "ANKYLOSAURUS;4",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "CROCHET_TIGER_PLUSHIE",
+              "exp": 458208.7365763831,
+              "uuid": "0abc62b1-3e04-4f4d-bd23-274611bdf2cf"
+            },
+            {
+              "petInternalName": "LION;4",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_COMMON",
+              "exp": 347548.54427812237,
+              "uuid": "afafda8b-eab1-4f1b-8d94-235303c53309"
+            },
+            {
+              "petInternalName": "GIRAFFE;4",
+              "skinVariantIndex": -1,
+              "exp": 136252.98448,
+              "uuid": "c5bf91fd-2b02-46e0-afc0-7aba04eb5323"
+            },
+            {
+              "petInternalName": "SKELETON;4",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
+              "exp": 95042.92764239978,
+              "uuid": "4614e534-b001-4f4e-8912-c79f88e8389a"
+            },
+            {
+              "petInternalName": "SKELETON_HORSE;4",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_SADDLE",
+              "exp": 90890.95846539183,
+              "uuid": "45304544-c411-40c9-b9b9-8ce1420c5138"
+            },
+            {
+              "petInternalName": "EERIE;4",
+              "skinVariantIndex": -1,
+              "exp": 6946.532317500002,
+              "uuid": "60eca103-247b-49d6-9a2c-cf9792c3d64a"
+            },
+            {
+              "petInternalName": "HORSE;4",
+              "skinVariantIndex": -1,
+              "exp": 3517.8151228124307,
+              "uuid": "5f8b7501-6e05-4fec-ad4d-6b478d0be485"
+            },
+            {
+              "petInternalName": "GOLEM;4",
+              "skinVariantIndex": -1,
+              "exp": 0.0,
+              "uuid": "d00bce93-c0ca-4f3c-98f9-d679d9b95a66"
+            },
+            {
+              "petInternalName": "GRANDMA_WOLF;4",
+              "skinVariantIndex": -1,
+              "exp": 0.0,
+              "uuid": "fe9bbdb5-6235-419a-a210-2bb7f7b4c483"
+            },
+            {
+              "petInternalName": "RIFT_FERRET;3",
+              "skinVariantIndex": -1,
+              "exp": 7266196.438438672,
+              "uuid": "7692e520-4bd2-4cc0-8135-267e2b196a00"
+            },
+            {
+              "petInternalName": "KUUDRA;1",
+              "skinVariantIndex": -1,
+              "exp": 2.5362140205769874E7,
+              "uuid": "7d679c58-2966-45f3-841a-f4d9f191cef5"
+            },
+            {
+              "petInternalName": "PRECURSOR_DRONE;0",
+              "skinVariantIndex": -1,
+              "exp": 5840633.878471703,
+              "uuid": "d3ecfd4d-9b6d-4d52-a7c8-8c86bff4cfc8"
+            },
+            {
+              "petInternalName": "JADE_DRAGON;4",
+              "heldItemInternalName": "MINOS_RELIC",
+              "exp": 5.41091618E8,
+              "uuid": "930f8fb8-5672-4bb7-970d-c4df8fc32845"
+            }
+          ],
+          "expSharePets": []
+        },
+        "apple": {
+          "pets": [],
+          "expSharePets": []
+        }
+      }
+    }
+  }
+}

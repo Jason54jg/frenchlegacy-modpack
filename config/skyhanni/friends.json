@@ -1,0 +1,40 @@
+{
+  "players": {
+    "2715e991-1b1b-46d4-9757-7c78a9356f5c": {
+      "friends": {
+        "c4d79a61-bdda-453b-80f2-8d86ce03357f": {
+          "name": "EnvoieTonSMIC",
+          "bestFriend": false
+        },
+        "49806618-d5b0-4b72-9002-2d55cb12c77b": {
+          "name": "Imbuvable",
+          "bestFriend": false
+        },
+        "0229b05d-97f4-450e-853a-46a518b5c1ce": {
+          "name": "TillingRabbit14",
+          "bestFriend": false
+        },
+        "ee7bd875-20d7-4dbd-a42e-38b5e4db3fff": {
+          "name": "Yoshi1er",
+          "bestFriend": false
+        },
+        "c6e7bad4-4ad4-4248-b0a5-1d0767631616": {
+          "name": "_SilverCraft_",
+          "bestFriend": false
+        },
+        "a4c213ca-c70d-4c11-822c-27a8c4c1f599": {
+          "name": "_SkineZ_",
+          "bestFriend": false
+        },
+        "ebfd7868-dc68-476d-959e-b6fa3e598d59": {
+          "name": "AstraOfficiel",
+          "bestFriend": false
+        },
+        "f138d9ac-90f5-4b55-917d-093c804f0415": {
+          "name": "Bee_Marmotte",
+          "bestFriend": false
+        }
+      }
+    }
+  }
+}

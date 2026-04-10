@@ -1,0 +1,25 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2715e991-1b1b-46d4-9757-7c78a9356f5c": {
+      "profileType": {
+        "Cucumber": "NORMAL",
+        "Apple": "BINGO"
+      },
+      "sbLevel": {
+        "Cucumber": 504
+      },
+      "sbLevelProgress": {
+        "Cucumber": 18,
+        "Apple": 16
+      },
+      "coop": {
+        "Cucumber": true
+      },
+      "profileId": {
+        "Cucumber": "09b4fae9-f7b2-4096-bc8f-68cdc98720ff"
+      },
+      "bingoRank": "UNCOMMON"
+    }
+  }
+}

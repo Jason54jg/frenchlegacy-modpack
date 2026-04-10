@@ -1,0 +1,33 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2715e991-1b1b-46d4-9757-7c78a9356f5c": {
+      "Cucumber": {
+        "purse": 2.1930059E7,
+        "purseType": "NORMAL",
+        "personalBank": 6,
+        "coopBank": 1100000000,
+        "motes": 0,
+        "bits": 47624,
+        "gems": 0,
+        "copper": 2639,
+        "sowdust": 16515647,
+        "northStars": 0,
+        "soulflow": 0
+      },
+      "Apple": {
+        "purse": 0.0,
+        "purseType": "NORMAL",
+        "personalBank": 0,
+        "coopBank": 0,
+        "motes": 0,
+        "bits": 0,
+        "gems": 0,
+        "copper": 0,
+        "sowdust": 0,
+        "northStars": 0,
+        "soulflow": 0
+      }
+    }
+  }
+}

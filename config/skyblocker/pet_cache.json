@@ -1,0 +1,18 @@
+{
+  "2715e9911b1b46d497577c78a9356f5c": {
+    "09b4fae9-f7b2-4096-bc8f-68cdc98720ff": {
+      "name": "[Lvl 200] Jade Dragon",
+      "type": "JADE_DRAGON",
+      "exp": 5.410585638424252E8,
+      "tier": "LEGENDARY",
+      "uuid": "e0abe843-3a1a-4586-87b0-04e99b5cf077",
+      "heldItem": "MINOS_RELIC"
+    },
+    "": {
+      "name": "Hedgehog",
+      "type": "HEDGEHOG",
+      "exp": 2.535323E7,
+      "tier": "LEGENDARY"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "botAlias": "Bridge",
+  "botAliasColor": "b",
+  "discordNameColor": "3",
+  "guildPrefix": "G",
+  "officerPrefix": "O",
+  "guildPrefixColor": "a",
+  "officerPrefixColor": "d",
+  "formatAllGuild": true,
+  "randomMode": false,
+  "language": "french",
+  "autoUpdaterEnabled": true,
+  "versionFormattingEnabled": true,
+  "guildVersionV1Color": "a",
+  "guildVersionV2Color": "e",
+  "guildVersionV3Color": "c"
+}

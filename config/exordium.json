@@ -1,0 +1,7 @@
+{
+  "configVersion": 3,
+  "globalSettings": {
+    "enabled": false,
+    "maxFps": 30
+  }
+}

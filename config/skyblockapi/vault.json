@@ -1,0 +1,2992 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2715e991-1b1b-46d4-9757-7c78a9356f5c": {
+      "Cucumber": [
+        {
+          "id": "minecraft:book",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "There and Back Again",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Commemorates your participation in",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Breach Close ",
+                    "color": "dark_purple"
+                  },
+                  {
+                    "text": "event.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Earned by: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "[MVP",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "+",
+                    "color": "white"
+                  },
+                  {
+                    "text": "] CherchePas",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "",
+                    "color": "white"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "December 10, 2024",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Memento acquirer name becomes",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "hidden if traded.",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "This book will never find a publisher.",
+                    "italic": true,
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL MEMENTO",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "timestamp": 1733866090678,
+              "uuid": "3fde3692-2b6e-456c-8b9e-1e6d5b0f3eb4",
+              "recipient_id": "2715e991-1b1b-46d4-9757-7c78a9356f5c",
+              "edition": -1,
+              "date": 1733866090675,
+              "recipient_name": "§b[MVP§f+§b] CherchePas§f",
+              "id": "RIFT_COMPLETION_MEMENTO"
+            }
+          }
+        },
+        {},
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "",
+                  "color": "red"
+                },
+                {
+                  "text": "Suspicious Red Gift",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "A suspiciously heavy gift given to",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "you by ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Chuckleton",
+                    "color": "red"
+                  },
+                  {
+                    "text": ".",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Obtained from the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "A Honk and Seek",
+                    "color": "light_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Adventure ",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": "event during April Fools.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Right-click to open!",
+                    "color": "yellow"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "All suspicious things come in red.",
+                    "italic": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "* ",
+                    "bold": true,
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "Co-op Soulbound ",
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "*",
+                    "bold": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                1258184049,
+                -1852885183,
+                -1452712072,
+                1549478213
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMzAwMjIxMjY2MCwKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM0OWIyZjA4YWM0ZTk4NGVjOTk5YjVlZTI2NDg1NGNjNmE2ZGZmMjNjYmM5NzU3OGVkMTA1MjFmZGNkMGU4MzIiCiAgICB9CiAgfQp9",
+                  "signature": "jzAcQQA6HT7iULl5auoL0xKu3sXx29PtUNSjMp9KX+pRXFnaCowaRqA1oY7Cbszn5uM0u3UOYFdskoz5H1WueZ0sF7Jb5sBSLZ2A1AA/LbRwtbtZ6pHUgR5ddHfJ7U4eqo2Hps+U8vhaIc0BXsQp9pXTWnYL1jkh0NtEBK28oq05P6EX7ErSVvEgQZ5FF/TEag9rAGWzXp5tbEx9ZwmlUHn78DdY0sBTm5Zi7G7duXtIWyE9ujsIDoiLwMPfMtvK1mUD1/HDVTAshOR6Vna0g2ydQu0cR4aY8k/ak4Ak5Em0Ct/fpytvsdyXYSemZjEgzBZOwAK6I4csDVO6fODJFfCB3mMPH0Q+ZMkiNhUGwFaK+p85H7U8dDscEgppUxtOvy7wLGuUCEo8XnjMpuGcRwdPGzotE1K2N4M7MagQkmvVooqO7dvY5///krOIO6jV50NdpaV5LbOuD+xPw/ibnzH8ZpJpKjE1enLm8gcIBen8vOAkBvdksEKjL114HfRqoeTuSaLMNv/axZY5oIh248ICxpYPHTmLJM7Ls4Ezxj6WIi2CgJpJQTrkTDh/g7F4UL8szgsPAw3s+DicQKUFcCFEimMqIyTd2qqP2QqLR7nxnNpHSTMONZ2zOjTXLPZiINifQOYXSBsaKFqbxYICQ/Y21qjC7MUn/Ogf2haCUZU\u003d"
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "uuid": "7f2bbff0-948f-42a6-9786-fafee07b131a",
+              "timestamp": 1743508570164,
+              "id": "SUSPICIOUS_RED_GIFT"
+            }
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Red Belt",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Health: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "+0.1",
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Defense: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "+0.1",
+                    "color": "green"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Reduces damage taken by ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "0%",
+                    "color": "red"
+                  },
+                  {
+                    "text": ".",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Obtained from the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "A Honk and Seek",
+                    "color": "light_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Adventure ",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": "event during April Fools.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "This item ",
+                    "extra": [
+                      {
+                        "text": "CANNOT",
+                        "bold": true
+                      }
+                    ],
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": " be reforged!",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL BELT",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                -393894567,
+                -1463535232,
+                -1763335579,
+                1151807572
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MjkxNzAzNzk3MiwKICAicHJvZmlsZUlkIiA6ICIyZmI1ZGJhYTY2NTA0OGEyYjZhYzU5YWE2Nzk5MDYzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkcmFnbG9uZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2YyNmVmNzUzMDE2YjYzNGRmMzBkYTYzMDk1ZThkMWQxZTVkY2JmNGI3NzIxYjA5OTZhMzlhZmM0Y2E0ZjUwZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+                  "signature": "QH7GZ9RSlx/0/KNPrpX2GtjI8H93FlyZaJvFBR4NJuBTX9uHPRMPiwll2rBokVZQ6CUUpgxSIvOF1KG9ztAfWTsj62NACcFRtZjCzSMg0ogRjg3hNUn8f0BkUxfloPYcFwpO0hIqG2pQM8o4rJO894pDi6SRULWUOohC7o1wF9vpIts7p7G5VNCFr9agN6rf3dP1UhaSaXn/8d7yAGK4YLDL0gVEgFnCAvO2hPh47qZp56YvN5QwWUJ1AQ2gKmJ/OAkLV40VRjwvDcfd6bsI9n/uPEus9kbsm8O3YmmIzUjJtBy+akUunG/AnNVOzZXPx33MdflNebA7X0PU7iTJnTScuxnAG9EmxD+gHard2JltN8tltm0vF3YP7VnTScOrfDp56iZrYpkcvqyuyIlj6mGq35tDH+SwbJovmPK7ZGv2bLjUQscmzYxXVReGy/usm5fm0JN851bI81sbG7YGkstwqDd2m1vgA4fO/EYDbeC818alqSxzWfLNVj+FctN3JjnRuirP8OhloxXGuiypJc2LFfIoAhyC3l2U6NxXh/OJPfWAuMIyihD+Ldb3SA5B1heplvJoCYkS0jXw1Qxry/rC3UX3sGbRtlCHl+YUV7C+iE9E/pXt97dnjgkn0oU2GjaRrykCEuig2NCnTZNUtBA7qd1b5OmrA9LMlrZZTtw\u003d"
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "uuid": "7a023d35-3a72-47ca-b1a1-e0e9472ad274",
+              "timestamp": 1743511400747,
+              "id": "RED_BELT"
+            }
+          }
+        },
+        {
+          "id": "minecraft:ender_pearl",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Noisy Pearl",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Lets you take pearl damage and",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "spawns Endermen when thrown on",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "The End",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": ".",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Obtained from the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "A Honk and Seek",
+                    "color": "light_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Adventure ",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": "event during April Fools.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "It\u0027s the background noise when you",
+                    "italic": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "talk on your Abiphone.",
+                    "italic": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "NOISY_PEARL"
+            }
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Ragna Rock",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Decoration Item",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Obtained from the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "A Honk and Seek",
+                    "color": "light_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Adventure ",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": "event during April Fools.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Can be placed.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "This island ROCKS!!",
+                    "italic": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                1912891129,
+                -1284754812,
+                -2096297723,
+                1120359979
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0Mjk0MzIyMTk1MywKICAicHJvZmlsZUlkIiA6ICJkZTE0MGFmM2NmMjM0ZmM0OTJiZTE3M2Y2NjA3MzViYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTUlRlYW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTQ1NDU2MGRiNjhlYjQ3MWRmYTU1MmViNzExZjI4MDE2Yjk3NDU0YTRjYTM3ODE3MWM4ODliNmZkODVkNDI1NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+                  "signature": "cwl4c0GH2z0XF94WiiQoXoICXuzmCynLRp/GHp3aNbsvKolVTlqmus1i5zJp/0Ae9JdV2saNVygG1dAi1ukKrKuXQVzbMTXeFAoebSr8c17Emwh4saPhIGZ/gj8HnKvXeDjsBtLP8h0GF6oktNqXNzc5ema0KnLhA1+/sOR5wiZ/h1Gt7G125tTI5lVTm0Znwj9ITrJ1Mbo8GfcbIpp6jBQ2wFKUbtQ19tksBDT90OHHeCU8y4oXJ/70S89JsibfvKKfIei62bVv0vXsfcDMvxO4/P9R30ABLVp5dtnS8bmOPmHS3pC8gHu6MRr9vwwRu21z937DnIorbhZix2ZDnN6KNsc0QCD55vdcaRfACxvnrhTG51lhSZ58Evhd3ieKfgzEx2V2f2CXDSi++hRCtYjmGR24GkTv3fcym1qbD/ACdqHg/N6pYo0a9VwQ379eFa9eVBjC/RUiSKH5I+bOC/5fimIyuifkZS8ocHPHEzrc1KO0VI/SRM+L+h/7ArOkd0siyZaYhxPEy/8fZMYaCGR8eNDcx8LyYovIQOCIfsw+0uu318UGZoM5iTK1w8mSIzU9V883nlybDKo1CyBWz9+grFy4kmb3d4PBNPqYNCCZVKTk9phcXY2whqzXR1UwCLseg3yvwV2Cppyie+7+YirxALlnaA4+nyOvXnE8ea0\u003d"
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "uuid": "45f38cc1-99f5-492c-b33a-b64042824959",
+              "timestamp": 1743514429259,
+              "id": "RAGNA_ROCK"
+            }
+          }
+        },
+        {},
+        {},
+        {
+          "id": "minecraft:pumpkin_pie",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Spooky Pie",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Obtained during the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "400th Spooky",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Festival ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "during SkyBlock Year 405.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Player: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "CherchePas",
+                    "color": "aqua"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Position: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "#7",
+                    "color": "green"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Candy Score: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "16,608",
+                    "color": "green"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "* ",
+                    "bold": true,
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "Co-op Soulbound ",
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "*",
+                    "bold": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "leaderboard_player": "§bCherchePas",
+              "timestamp": 1740919216135,
+              "event": "spooky_festival_399",
+              "uuid": "2abb61ea-749e-48c6-a8eb-86cbb2a8de0e",
+              "leaderboard_score": 16608,
+              "leaderboard_position": 7,
+              "id": "SPOOKY_PIE",
+              "new_years_cake": 404
+            }
+          }
+        },
+        {
+          "id": "minecraft:redstone_torch",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Dreamspire Torch",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "This torch replica representing the",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "passion and dreams at ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Hypixel ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "is now",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "in your hands.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Thank you for an amazing ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "12 years",
+                    "color": "aqua"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "and beyond!",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL MEMENTO",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "uuid": "0e6783ea-137c-4f4f-b063-f2532ae63bda",
+              "timestamp": 1743238499905,
+              "id": "DREAMSPIRE_TORCH"
+            }
+          }
+        },
+        {},
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Kuudra Teeth Plaque",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Once used to poison a great beast.",
+                    "italic": true,
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Its remains show the true mark of a",
+                    "italic": true,
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "great adventurer.",
+                    "italic": true,
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "This item is in its final form!",
+                    "italic": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Discoverer: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "[MVP",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "+",
+                    "color": "white"
+                  },
+                  {
+                    "text": "] CherchePas",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "",
+                    "color": "white"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Edition #8,300",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "February 9th, 2025",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "* ",
+                    "bold": true,
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "Soulbound ",
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "*",
+                    "bold": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                2141231297,
+                -849068627,
+                -1956656601,
+                1429489969
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTU0MTgzMDgzNCwKICAicHJvZmlsZUlkIiA6ICJkODBlMGYyNjU2M2U0NzI3YWNiZDNlMmRlNDkxYzFiZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWxvemVyb3ZrYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MTA1Yjk3ZTA2ZjE2MTQyMWE4ZDJjYWYzMDk4MDMzMzlmYzA0ZWY4NGViM2NkYjFlNTQ3NGIwMTkyZmM1MGE4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+                  "signature": "GXH4d6YXvMd65kQWycPNNIxb6pvX9JxYGme0EJyli/y6L9cD74GGV2xVBSl3lR9trUEhhJJE+J/tHQl+NBTfh1T65OMlpBI4yjVFEGs+oBk+M46/zch3TYkFDx4ZKfBIOaXD2fnZLk+pPv05TzjCMYM1vTJmewffCwv5FyLuOUB8ob8Ed2SMz+EkRm+rFh0+ep8QKlVPka8T872kzs9L8UQ1PQ7XGCxzilbeZsLdLdVDdiRDga0UDc1/srf1q8TDnGqSj4zzCpRO3gk6Mu8ha0BMXAjBYVqEqS5ybMB3hxQ58uGOG+nOiga6/sfwagcimShObVaP0cvmV8FJksAD+J2RaPso2MFGHN3cc/oTN7XDfsvhllZA65rG4BPkqaLNRzY05DIqL8tjWfG9LQ19vf+ONGzIObYUJJZEYQ49MjqqBCiMNs/gNVD0R+5sV4jOXz/y9AWURVEKL6t96g1kfof36hBKYjSOrElYuBCrnHuxOXFdCzwlv8+n8b879TkDx2Up8yFQ1Y2Zvx+X/odJxIsUCM0Y1USpHlmHWxtjaj1Xx1AjZiTofFPyVuWZgH1yGMyT0QVflmSfBUH7oHSlvEEjdOLHrFVOcbvUS0ossxgT+/SOkrjnjJbCSfvuP9R80tEENCQFy4ePjyBaSSEy1DComMSqoIof3fvZ9qjPZUQ\u003d"
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "timestamp": 1739114719296,
+              "kuudraCavityRarity": "SPECIAL",
+              "recipient_id": "2715e991-1b1b-46d4-9757-7c78a9356f5c",
+              "edition": 8300,
+              "date": 1739104833544,
+              "uuid": "442ae27d-99b9-4dd8-be95-482b6ab31ff5",
+              "recipient_name": "§b[MVP§f+§b] CherchePas§f",
+              "id": "KUUDRA_CAVITY"
+            }
+          }
+        },
+        {},
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Bag of Gold",
+                  "color": "blue"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "A thank you present from a grateful",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "person in the Crimson Isle.",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "* ",
+                    "bold": true,
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "Soulbound ",
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "*",
+                    "bold": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "RARE",
+                    "bold": true,
+                    "color": "blue"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                1972313248,
+                1584348321,
+                -2073841349,
+                1059854012
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "eyJ0aW1lc3RhbXAiOjE0ODU0NjAwMjA1OTgsInByb2ZpbGVJZCI6IjdkYTJhYjNhOTNjYTQ4ZWU4MzA0OGFmYzNiODBlNjhlIiwicHJvZmlsZU5hbWUiOiJHb2xkYXBmZWwiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzNmU5NGY2YzM0YTM1NDY1ZmNlNGE5MGYyZTI1OTc2Mzg5ZWI5NzA5YTEyMjczNTc0ZmY3MGZkNGRhYTY4NTIifX19",
+                  "signature": "wpLkrKv6WP94AIDE9+XqclvdrMwx3wd6Zj8q85GcYV5sojHEHLOPW+YUMOyHTtYiwLYmX4OJyF2ZkvaOXUkD/0w04j8Kwn1NJTJVFuWXvEIsKDyh4I9MB+zqQqK1TsN5mJD8kvQPx0APmzuM6pXGlcGDEpb2J2xEpIOwAp0RMipydH1FTHij2YhcfM2zwDsNiU8szL0yntct1nLf/1NUGio7cnmUovRtCvJuem1X+n4OPS8mT1JnMQ8a0lcneSp2iyA+9IHbPT0yTfbDZiVjhuTAxFv1arrzwqZC4/vS83bqSZEa0Bw4MM93hDkWam5XKJ73rt7IC4DRZ/32DbMUEE+/vzGsc0IvBIXMOjNn5ekCdLp0tv4pzCzZnsi5k4yngVnY/4PEVuVfTsB0wfcHSuqcaVXb//8KnhK0SCgB4OkKpvQSI+V8fBxsFjEk1nqSrV5SnCJjkYkAZFYZzo657MeONYEEbTB2RXIAcLv8Rndxv/FwMdygCTr9iobkS3jvSqYH75govg0op1vFqAFVR9COWHJbbHLDmXp/SG/5qZvZISu+I4UA6nb3OxeHZwigYbnBsSiA5O3XZ3z4Ap4KK0YDxWlzU7GJQYLy/ULqAIhPnV0VpGE/SRjBObL4fYjn3L60wVYKDvqSSZW9wVW9pwFQgXBeLu+Tkoli+VGpbwg\u003d"
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "uuid": "92135d15-72dd-4d4a-b92c-c3898685cd58",
+              "timestamp": 1718802503605,
+              "id": "BAG_OF_GOLD"
+            }
+          }
+        },
+        {},
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Kuudra Relic",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Quest Item",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "* ",
+                    "bold": true,
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "Soulbound ",
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "*",
+                    "bold": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                -132238386,
+                1498822197,
+                -1680145478,
+                -1640056262
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MzYyNzkwNTc4NCwKICAicHJvZmlsZUlkIiA6ICJkNjBmMzQ3MzZhMTI0N2EyOWI4MmNjNzE1YjAwNDhkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCSl9EYW5pZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmY2YzdhYTMxNTU2YTEyMDgwY2MzNmU4YTI4ZDExMzIyMWVlZjhmNzM4ZGM0NzU2NTI5YjViMzI4ZTgyOTgxYSIKICAgIH0KICB9Cn0\u003d",
+                  "signature": "cfinBJzPuXVtevEpKb+h1l1Xrf2VRnoaawTynk7noC5YTg80J8hfDXXVlnXhXVjWDYj1dHkJ+JiOF0ymFLUkfx0qrFAVvB388Z0HT2W6VSrFsp5eA0B3En/VhFLRysyCXQxNlbfcDDdoGk1QwTSqVkviPUtVVoqis5v8y4GlXW07n5xcvnZKBEl2SfAsVwM3QccaS7PHn4xG2q9dZRs48DFivXj8tTlREBZbnl7sseATulAihCCJhanRKpmjQ5rIU0gEX2rIoiMj3ArneMi7s6+TMbVd+qxsXmW/1m+3Im+EHI9C8rE0P1E0LFEQ80EO+TUKuW6j6mZvhSLpNI4Pe9ZqBshhGcjoavc6BFQS8Zk2EaC+FZsH2bPvCeO7+vz2kn/Seco3QK648Z2nXRGlIurQhnDO7l8ULK7P4QGPAinPEeW0FMkJ26TjPUUjtOcEFxs+AMzPlsz5wrMHlqDFTRBDi+9LZDkKxqrTq3DJipibDK1z9Kf9h81MYoSsYcK7fYfUoPZqN9T4xawP1tM2jbXK6nR43ZdkhqyAg3ApRNsO4G/IK8goUAIZRMLkiQRP5znT/ZEbkBgG8Bc/oW2sVYMn6tPGunuTohbgK4z2cSukzNjPkEfKbAHZiolmM5WvaKmbfw69VZyjIwy3rlBc5CaIZ40y79xgIupwXxOQxsc\u003d"
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "uuid": "b9dc646b-5d8b-4fda-a66e-6d24708770c5",
+              "timestamp": 1735926191222,
+              "id": "KUUDRA_RELIC"
+            }
+          }
+        },
+        {},
+        {
+          "id": "minecraft:pumpkin_pie",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Spooky Pie",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Obtained during the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "354th Spooky",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Festival ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "during SkyBlock Year 359.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Player: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "CherchePas",
+                    "color": "aqua"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Position: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "#8",
+                    "color": "green"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Candy Score: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "14,086",
+                    "color": "green"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "* ",
+                    "bold": true,
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "Co-op Soulbound ",
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "*",
+                    "bold": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "leaderboard_player": "§bCherchePas",
+              "timestamp": 1720384899061,
+              "event": "spooky_festival_353",
+              "uuid": "12192a9b-5cba-4712-aeb6-d44e4789ad5b",
+              "leaderboard_score": 14086,
+              "leaderboard_position": 8,
+              "id": "SPOOKY_PIE",
+              "new_years_cake": 358
+            }
+          }
+        },
+        {
+          "id": "minecraft:filled_map",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Mediocre Drawing of a Fish",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Commemorates your participation in",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Fishing Outpost ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "city project.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Earned by: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "[MVP",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "+",
+                    "color": "white"
+                  },
+                  {
+                    "text": "] CherchePas",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "",
+                    "color": "white"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Total Contributions: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "20",
+                    "color": "green"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "March 8, 2025",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Memento acquirer name becomes",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "hidden if traded.",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Found underneath the fridge in the",
+                    "italic": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Fisherman\u0027s Hut during renovations.",
+                    "italic": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Though it leaves a lot to be desired,",
+                    "italic": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "visually speaking, a lot of love was",
+                    "italic": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "probably put into it.",
+                    "italic": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL MEMENTO",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:map_id": 30889,
+            "minecraft:custom_data": {
+              "date": 1741483983755,
+              "timestamp": 1741483983755,
+              "id": "MEDIOCRE_FISH_DRAWING",
+              "recipient_name": "§b[MVP§f+§b] CherchePas§f",
+              "uuid": "d5e7f01d-8ae4-4ead-85b1-655bfc63b3b4",
+              "recipient_id": "2715e991-1b1b-46d4-9757-7c78a9356f5c"
+            }
+          }
+        },
+        {},
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Vitamin Life",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Power Stone",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Combine ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "99,999,999x ",
+                    "color": "green"
+                  },
+                  {
+                    "text": "of this stone at",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Maxwell ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "to permanently unlock the",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Unhealthy ",
+                    "color": "red"
+                  },
+                  {
+                    "text": "power.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "At ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "250 Magical Power",
+                    "color": "gold"
+                  },
+                  {
+                    "text": ":",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "-324❤ Health",
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Unique Power Bonus:",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "-200❤ Health",
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Requires ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Combat Skill Level MCCXII",
+                    "color": "green"
+                  },
+                  {
+                    "text": "!",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Obtained from the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "A Honk and Seek",
+                    "color": "light_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Adventure ",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": "event during April Fools.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL POWER STONE",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                345720867,
+                -1854852356,
+                -1555963678,
+                -1406430944
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MTcxODQ5OTY4NCwKICAicHJvZmlsZUlkIiA6ICJiYTllNWY4YTc0Yzg0MzQ5YjY3ZTg2MzBlMDRmMTI2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJhbW9ndXNwYWRvdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYmJlMWRkNmNkZjJkYmEyZGI0YmJlYjk0MDg4YzNjZDI0NDdmNDYzMmZjMmY5ZTllZmU1MTVjYTAwZGY4YjBjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+                  "signature": "NXEnIFA8CoMoRFAJ9p7VzpAzCpd8Y/h7P7ool1v67P/+C6GUANLs7ddB9zIP2g83CgA8QbUIf1iHJMSk5xeh7TPwM4jV1yYiNP8NV8Z/jDItZ/HsDj9nGYYoEbvlsOLgIPKxv4FIDjPKLcIQpvBUtAK+LfEuEp8QrMx89DYtq9NPOVWo5pq91DU+ZKUgbR4pUbwunoeq6qZktduRmgSYRmG+t3TqZw8as6/1PPLdsW7lPRWZbYL1cJJjK1OEk9Pqb+ZXVOrw17Z10CA2s6Z+w5U5WA1wAhuLJJtnqO4KoW/+zStkvBfT5q54oPIfMG+L8JPrFcip+nJGAA5MTLjp0UbsAj42Zo3NUYbt6cEHk55RZfoopjaB5vFQ/qZrGim3JhIdEr02WM2B+ZYgYzlAsECk9VzeJYRcxGVboYkLWbmuYfcMLmO4kWO4sZ/1AEKh8Dqpytz6TMwH3i0asB1C8vEoG52YLKjDrn6l1c+3uAcqjp7mVmaPRsQHojj5mXw4FxpaQnnagkyoyqVOHihcdkUNLirmkMBD67o7oi0ZhpgiEMmOI+nD4PGeRTziwv/C3AebGSE0+5SnPL8zktuksJZsB5zx1BBOPp9hicHmk/ospU0kF/Qcb7FEstbHmgyAb4sqHgnW+fbkGt1s1nopIry67b1NxLAdoOGRos+8YNE\u003d"
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "uuid": "ef06933e-5a64-4357-a756-43ad68ef5348",
+              "timestamp": 1743516134111,
+              "id": "VITAMIN_LIFE"
+            }
+          }
+        },
+        {
+          "id": "minecraft:cooked_porkchop",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Blazetekk™ Ham",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Savory meat processed by the",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Blazetekk™ Corporation",
+                    "color": "dark_red"
+                  },
+                  {
+                    "text": ", a",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "convenient and tasty treat amongst",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "the populace.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Obtained from the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "A Honk and Seek",
+                    "color": "light_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Adventure ",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": "event during April Fools.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Locally sourced.",
+                    "italic": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "uuid": "9f511a30-0c8c-4e35-a1dd-ce0ce6c17a93",
+              "timestamp": 1743528610010,
+              "id": "BLAZETEKK_HAM"
+            }
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "An Extremely Difficult Item For You To Find",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "You found it!",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Obtained from the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "A Honk and Seek",
+                    "color": "light_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Adventure ",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": "event during April Fools.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                1428984012,
+                -1395639249,
+                -2089288136,
+                -1283466608
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NTYzNzAwNTA1OCwKICAicHJvZmlsZUlkIiA6ICI2MTJmZDAxMWY4YTQ0ZGIwOTU3ZTNjM2MyZTBkYmFlZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYWxlbnRhZG94MTIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2QyOWZiYTgxZjhjZjM1NmU2NmI0MTZkYjgwMjBhZDM0N2I5ZWNmMGI5NzZlN2FlYmRhZjgyYTBjMDhjMWFkNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+                  "signature": "v1GLqp8bTGR77eMlNUJX0g/1sr5pWc54oD3yMMbDK8/ko9xk0h4J696RiVmC2zdV4L451iQdSG8b/9xB5hXfr1RM1nUTsUGApXVFTh1TS0pNPhGdbpphrUQuBoCq4pAzsF3A/aRrxNoKIgT8r7mLf6C01ubbNnDhSnF+KhLPyrYSY1M6a6MP85zhsdWQuyBo8gPTpiz67BbVJN+WLMY1Li7Oeg4tno2JE8l89z3EO+QHS5h/zfs9q+jVEJVKXE/z3GpNRMH9YYIJFfe4iQzlEngNd9RVVyuL9tmFnz2msiuD8TB7Ba+u2sV2N/N/9E40F+lJlWFHj30PqTzgY+j8lAc6oEC6ZUse6RL/Wl0kinop8hmuSgDUNxHi4j/GoQQec1kmZm1UeJ9rFY5fHhMqPaw5Q0NLbmnMfmZOyVnhrppnffIkBBb+xuhvgGvxabUcc+qgLzLppcxblMMYRBUbJ5CO0pu39lgf9BCgWmlPlbKHTfTzVXAlOZseS8amlTwD1YFEV4iWTEwORBwh2AzeeL7soAbZH5ne8XgJfpE6D8EKM9lkzb/VUEPq/Bdhzle/4E7fobvOR5XNFWvDtdlHey5e9I+Z3mYl1wiWXykPORhCEkOZrJnAXsSUjJ3oJgLIS67UyiyfDJx3X17QXbGLyRgNOrFFuTCdfG4iiaUEftA\u003d"
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "uuid": "3113f230-6fe6-4334-a94e-e18b670e36b2",
+              "timestamp": 1743964053278,
+              "id": "DIFFICULT_ITEM"
+            }
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Snow Union I",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Place this minion and it will start",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "generating and shoveling snow!",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Requires an open area to place",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "snow. Minions also work when you are",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "offline!",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "However, it seems like this minion is",
+                    "italic": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "on strike.",
+                    "italic": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Time Between Actions: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "FOREVER!",
+                    "bold": true,
+                    "color": "green"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Max Storage: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "64",
+                    "color": "yellow"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Resources Generated: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "0",
+                    "color": "aqua"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Obtained from the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "A Honk and Seek",
+                    "color": "light_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Adventure ",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": "event during April Fools.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                -35649383,
+                156188664,
+                -2118638280,
+                816370665
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "eyJ0aW1lc3RhbXAiOjE1NzY1MTMxOTQ4MDUsInByb2ZpbGVJZCI6ImRlNTcxYTEwMmNiODQ4ODA4ZmU3YzlmNDQ5NmVjZGFkIiwicHJvZmlsZU5hbWUiOiJNSEZfTWluZXNraW4iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y2ZDE4MDY4NGMzNTIxYzlmYzg5NDc4YmE0NDA1YWU5Y2U0OTdkYTgxMjRmYTBkYTVhMDEyNjQzMWM0Yjc4YzMifX19",
+                  "signature": "lBOKqf+gBI7zNGvioKiCVMjmdihmWqgiLBMkbS7hp399HpbiBGE/hwBZ95yTDhVszd8gPP5nPDgmRbkMqJ3vY6lVTqZUjwQe3/hM59DevFtxK75VgMONwY3QvO1OZJYdSAFxo5xpIoTxK9gJ9EztSEBz0lwRFw2YwNt5frGDTsSM9lFqWxq4n/5DvdGsnGEtKv451ehE2bHLSH8cDZB4fGM7R/pXbD6URPQOOAIq76a25YzH7B+p7R1vMFJogt4t9J9RffWop5I4lNbD0LGcLJFKlobmEJ7OZA4HVk0DQARgO7tvi3PZg/DyX1KQw/8w86/yPULXRPvysEWUE53V+TxMAF5RtS7dkpGbP7Htl2SXhWgHeaqqiu9Dk8Du+16gQY3xl8fLNa9PMBnrpmFS8/iG50q8L5k0c4WmIP5PheuXcDIBaae7OygRAUJWWuvWD+IU1SCvvZud9Q2ik/MBm8yIsum02HI7niR63bRISaezjQ7NvoYMrIwfuR1Go1ChSZyua3h7BhKjLa0Z5hQMGtIU4Qw9R1k9Jk+ddf9gT745/Is868gnaj5goRX7GC+IYRo4BVRgPN64u6Mzi2PLI1W716XnwD1uaqDJE3DgmYgZ8rACNfiRX0vWYtVvMvfqdwR1tYbYqBKQjb3GxPCl2fTMuQOCfWIYUNYnI5GwXEE\u003d"
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "uuid": "edd25bf6-ff72-4698-b490-404041edc3d6",
+              "timestamp": 1743510235350,
+              "id": "SNOW_UNION"
+            }
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Jerry Helmet",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Intelligence: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "-1",
+                    "color": "aqua"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Ability: Think",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Channel your inner Jerry.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Obtained from the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "A Honk and Seek",
+                    "color": "light_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Adventure ",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": "event during April Fools.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "This item can be reforged!",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL HELMET",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                -1708387053,
+                -172409487,
+                -1166430699,
+                -1115284977
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "eyJ0aW1lc3RhbXAiOjE1MTIyMTE4MjQ0MzAsInByb2ZpbGVJZCI6ImJkNDgyNzM5NzY3YzQ1ZGNhMWY4YzMzYzQwNTMwOTUyIiwicHJvZmlsZU5hbWUiOiJNSEZfVmlsbGFnZXIiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ\u003d\u003d",
+                  "signature": "NGqmnEG7KOijoBx8K27I4nVlqqd1BzEi+kRj+ADyzye1tiVIwK5cavLud4DihzMaRdRE8HAtmlk3Fl0AiuFTG2iKZw7ucrrLacVX9NGEim8Zhf2hOXC1oCEviBSmqJqifr1XI5vRhRAN4qXKd1flvflZA5g1uwuARYOeb5g/Ivkqz6kGtw6pNTYMMzQXBwsMcnXDl7Bpjaiyl2kM3UDSZm0X6DpOCOAoFAuUts8FOxkpzZx5bJS5oF5QJE255lbDGG/1jrRQca2MQjCg3JGISuGjHlANkbqILcBV+eHdEEErWO0HvN4rQL1yjm/z4QO5CcZoy4CR6FrYb2BBZ60b5HdEbh7hT2jqx+LhGliyZo2SaJgGx4gRKC0xSxOTOCmhmbZCjOpYfEPied7lptmOgQ7GJAlPxhPn3aL9YdFKCFEm4VqKIyz1P03LUCDiEWgwjevPjParjEs+elKj3r+PZIGF1ste2UAGIYaAogtXy9S21rN8fKTLQeOCG5lZgTllU1sfh546ZAK6ZTPPY2XP0Z89Ibe4n5eBICNGPIR7GV9YT0ds/tDxLLd0hkHOgwmAruAYTxHTPIT+f6yPF2SyYmL2Q9QI7VKGwDeX5bJL/UkzEq/bFm43PB1Q7IHA0fcbN7+hCijVKCDZJPaUJpwHtg0m23UR2pCFuwPtKiG1Ies\u003d"
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "uuid": "ad8e3d4e-b9ec-4555-9b23-642e8a028bf5",
+              "timestamp": 1743514901045,
+              "id": "JERRY_HELMET"
+            }
+          }
+        },
+        {},
+        {
+          "id": "minecraft:pumpkin_pie",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Spooky Pie",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Obtained during the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "396th Spooky",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Festival ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "during SkyBlock Year 401.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Player: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "CherchePas",
+                    "color": "aqua"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Position: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "#8",
+                    "color": "green"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Candy Score: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "16,111",
+                    "color": "green"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "* ",
+                    "bold": true,
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "Co-op Soulbound ",
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "*",
+                    "bold": true,
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL",
+                    "bold": true,
+                    "color": "red"
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "leaderboard_player": "§bCherchePas",
+              "timestamp": 1739133737467,
+              "event": "spooky_festival_395",
+              "uuid": "23ddbdb9-75f7-49ad-84bf-55c9e2920685",
+              "leaderboard_score": 16111,
+              "leaderboard_position": 8,
+              "id": "SPOOKY_PIE",
+              "new_years_cake": 400
+            }
+          }
+        }
+      ]
+    }
+  }
+}

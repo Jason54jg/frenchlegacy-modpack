@@ -1,0 +1,630 @@
+{
+  "version": 4,
+  "subtitlesEnabled": false,
+  "sounds": [
+    {
+      "soundId": "minecraft:block.anvil.break",
+      "volume": 0.2
+    },
+    {
+      "soundId": "minecraft:block.anvil.destroy",
+      "volume": 0.2
+    },
+    {
+      "soundId": "minecraft:block.anvil.land",
+      "volume": 0.2
+    },
+    {
+      "soundId": "minecraft:block.anvil.place",
+      "volume": 0.2
+    },
+    {
+      "soundId": "minecraft:block.anvil.use",
+      "volume": 0.2
+    },
+    {
+      "soundId": "minecraft:block.creaking_heart.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:block.ender_chest.close",
+      "volume": 1.01
+    },
+    {
+      "soundId": "minecraft:block.fire.extinguish",
+      "volume": 0.2
+    },
+    {
+      "soundId": "minecraft:block.note_block.imitate.wither_skeleton",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.allay.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.armadillo.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.armadillo.hurt_reduced",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.arrow.hit",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.arrow.hit_player",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.arrow.shoot",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.axolotl.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.bat.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.bee.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.blaze.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.bogged.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.breeze.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.camel.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.cat.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.chicken.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.cod.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.cow.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.creeper.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.dolphin.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.donkey.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.dragon_fireball.explode",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.drowned.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.drowned.hurt_water",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.elder_guardian.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.elder_guardian.hurt_land",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.ender_dragon.ambient",
+      "volume": 0.3
+    },
+    {
+      "soundId": "minecraft:entity.ender_dragon.death",
+      "volume": 0.3
+    },
+    {
+      "soundId": "minecraft:entity.ender_dragon.flap",
+      "volume": 0.3
+    },
+    {
+      "soundId": "minecraft:entity.ender_dragon.growl",
+      "volume": 0.3
+    },
+    {
+      "soundId": "minecraft:entity.ender_dragon.hurt",
+      "volume": 0.29
+    },
+    {
+      "soundId": "minecraft:entity.enderman.death",
+      "volume": 0.31
+    },
+    {
+      "soundId": "minecraft:entity.enderman.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.enderman.scream",
+      "volume": 0.32
+    },
+    {
+      "soundId": "minecraft:entity.enderman.teleport",
+      "volume": 0.32
+    },
+    {
+      "soundId": "minecraft:entity.endermite.ambient",
+      "volume": 0.32
+    },
+    {
+      "soundId": "minecraft:entity.endermite.death",
+      "volume": 0.32
+    },
+    {
+      "soundId": "minecraft:entity.endermite.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.endermite.step",
+      "volume": 0.34
+    },
+    {
+      "soundId": "minecraft:entity.evoker.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.experience_bottle.throw",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:entity.experience_orb.pickup",
+      "volume": 0.51
+    },
+    {
+      "soundId": "minecraft:entity.firework_rocket.blast",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.firework_rocket.blast_far",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.firework_rocket.large_blast",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.firework_rocket.large_blast_far",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.firework_rocket.launch",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.firework_rocket.shoot",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.firework_rocket.twinkle",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.firework_rocket.twinkle_far",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.fox.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.frog.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.generic.explode",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.generic.extinguish_fire",
+      "volume": 0.2
+    },
+    {
+      "soundId": "minecraft:entity.generic.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.ghast.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.ghastling.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.glow_squid.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.goat.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.goat.screaming.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.guardian.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.guardian.hurt_land",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.happy_ghast.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.hoglin.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.horse.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.hostile.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.husk.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.illusioner.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.iron_golem.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.lightning_bolt.impact",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.lightning_bolt.thunder",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.llama.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.magma_cube.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.magma_cube.hurt_small",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.mule.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.ocelot.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.panda.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.parrot.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.parrot.imitate.ender_dragon",
+      "volume": 0.34
+    },
+    {
+      "soundId": "minecraft:entity.parrot.imitate.endermite",
+      "volume": 0.34
+    },
+    {
+      "soundId": "minecraft:entity.parrot.imitate.wither",
+      "volume": 0.3
+    },
+    {
+      "soundId": "minecraft:entity.parrot.imitate.wither_skeleton",
+      "volume": 0.31
+    },
+    {
+      "soundId": "minecraft:entity.phantom.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.pig.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.piglin.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.piglin_brute.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.pillager.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.player.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.player.hurt_drown",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.player.hurt_freeze",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.player.hurt_on_fire",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.player.hurt_sweet_berry_bush",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.polar_bear.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.puffer_fish.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.rabbit.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.ravager.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.salmon.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.sheep.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.shulker.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.shulker.hurt_closed",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.shulker_bullet.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.silverfish.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.skeleton.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.skeleton_horse.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.slime.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.slime.hurt_small",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.sniffer.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.snow_golem.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.spider.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.squid.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.stray.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.strider.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.tadpole.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.tropical_fish.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.turtle.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.turtle.hurt_baby",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.vex.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.villager.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.vindicator.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.wandering_trader.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.warden.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.witch.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.wither.ambient",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.wither.break_block",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.wither.death",
+      "volume": 0.3
+    },
+    {
+      "soundId": "minecraft:entity.wither.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.wither.shoot",
+      "volume": 0.3
+    },
+    {
+      "soundId": "minecraft:entity.wither.spawn",
+      "volume": 0.3
+    },
+    {
+      "soundId": "minecraft:entity.wither_skeleton.ambient",
+      "volume": 0.32
+    },
+    {
+      "soundId": "minecraft:entity.wither_skeleton.death",
+      "volume": 0.32
+    },
+    {
+      "soundId": "minecraft:entity.wither_skeleton.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.wither_skeleton.step",
+      "volume": 0.32
+    },
+    {
+      "soundId": "minecraft:entity.wolf.hurt",
+      "volume": 0.01
+    },
+    {
+      "soundId": "minecraft:entity.wolf_angry.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.wolf_big.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.wolf_cute.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.wolf_grumpy.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.wolf_puglin.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.wolf_sad.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.zoglin.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.zombie.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.zombie_horse.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.zombie_villager.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.zombified_piglin.hurt",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:event.raid.horn",
+      "volume": 1.01
+    },
+    {
+      "soundId": "minecraft:item.firecharge.use",
+      "volume": 0.2
+    },
+    {
+      "soundId": "minecraft:weather.rain",
+      "volume": 0.24
+    },
+    {
+      "soundId": "minecraft:weather.rain.above",
+      "volume": 0.24
+    }
+  ]
+}

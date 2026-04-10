@@ -1,0 +1,1046 @@
+{
+  "version": 10,
+  "general": {
+    "enableTips": false,
+    "acceptReparty": false,
+    "speedPresets": {
+      "enableSpeedPresets": true
+    },
+    "shortcuts": {
+      "enableShortcuts": false,
+      "enableCommandShortcuts": false,
+      "enableCommandArgShortcuts": false,
+      "enableKeyBindingShortcuts": false
+    },
+    "quiverWarning": {
+      "enableQuiverWarning": true,
+      "enableQuiverWarningInDungeons": true,
+      "enableQuiverWarningAfterDungeon": true
+    },
+    "itemList": {
+      "enableRecipeBook": true,
+      "enableItemList": true,
+      "enableCollapsibleEntries": true
+    },
+    "itemTooltip": {
+      "enableNPCPrice": false,
+      "enableMotesPrice": false,
+      "enableAvgBIN": false,
+      "avg": "THREE_DAY",
+      "enableLowestBIN": false,
+      "enableBazaarPrice": false,
+      "enableCraftingCost": "OFF",
+      "enableObtainedDate": true,
+      "enableMuseumInfo": false,
+      "enableExoticTooltip": true,
+      "enableAccessoriesHelper": true,
+      "dungeonQuality": true,
+      "showEssenceCost": false,
+      "enableEstimatedItemValue": false,
+      "enableStackingEnchantProgress": false,
+      "enableEvolvingItemProgress": true
+    },
+    "itemInfoDisplay": {
+      "itemBackgroundStyle": "SQUARE",
+      "itemBackgroundOpacity": 1.0,
+      "itemRarityBackgrounds": false,
+      "jacobMedalBackgrounds": true,
+      "legacyAttributeBackgrounds": true
+    },
+    "itemProtection": {
+      "slotLockStyle": "CLASSIC",
+      "displayChatNotification": true,
+      "protectValuableConsumables": true
+    },
+    "wikiLookup": {
+      "enableWikiLookup": true
+    },
+    "specialEffects": {
+      "rareDungeonDropEffects": true,
+      "rareDropEffects": true,
+      "rareDyeDropEffects": true
+    },
+    "lockedSlots": [],
+    "protectedItems": [
+      "4cb464d4-48ea-49ef-9615-3de9524c9b4b"
+    ],
+    "customItemNames": {},
+    "customDyeColors": {},
+    "customArmorTrims": {},
+    "customAnimatedDyes": {},
+    "customHelmetTextures": {},
+    "customGlint": {},
+    "customItemModel": {},
+    "customArmorModel": {},
+    "customAnimatedHelmetTextures": {}
+  },
+  "uiAndVisuals": {
+    "swingOnAbilities": false,
+    "nightVisionStrength": 100,
+    "compactorDeletorPreview": true,
+    "dontStripSkinAlphaValues": true,
+    "backpackPreviewWithoutShift": false,
+    "hideEmptyTooltips": true,
+    "fancyCraftingTable": true,
+    "hideStatusEffectOverlay": true,
+    "showEquipmentInInventory": true,
+    "cancelComponentUpdateAnimation": true,
+    "showCustomizeButton": true,
+    "showConfigButton": false,
+    "trueQuiverCount": true,
+    "chestValue": {
+      "enableChestValue": true,
+      "color": "DARK_GREEN",
+      "incompleteColor": "BLUE"
+    },
+    "itemCooldown": {
+      "enableItemCooldowns": true
+    },
+    "museumOverlay": true,
+    "slotText": {
+      "slotTextMode": "ENABLED",
+      "textEnabled": {},
+      "slotTextToggled": true
+    },
+    "radialMenu": {
+      "enabled": false,
+      "tooltipsWithoutShift": false,
+      "enabledMenus": {}
+    },
+    "inventorySearch": {
+      "enabled": "SKYBLOCK",
+      "ctrlK": false,
+      "clickableText": false
+    },
+    "titleContainer": {
+      "titleContainerScale": 100.0,
+      "x": -1,
+      "y": -1,
+      "direction": "VERTICAL",
+      "alignment": "MIDDLE"
+    },
+    "tabHud": {
+      "tabHudEnabled": false,
+      "tabHudScale": 100,
+      "showVanillaTabByDefault": false,
+      "style": "FANCY",
+      "displayIcons": false,
+      "compactWidgets": false,
+      "enableHudBackground": false,
+      "effectsFromFooter": false,
+      "defaultPositioning": "CENTERED",
+      "nameSorting": "DEFAULT"
+    },
+    "fancyAuctionHouse": {
+      "enabled": false,
+      "highlightCheapBIN": true
+    },
+    "bars": {
+      "enableBars": false,
+      "enableBarsRift": true,
+      "riftHealthHP": false,
+      "enableVanillaStyleManaBar": false,
+      "intelligenceDisplay": "ORIGINAL",
+      "barPositions": {
+        "healthBarPosition": "LAYER1",
+        "manaBarPosition": "LAYER1",
+        "defenceBarPosition": "RIGHT",
+        "experienceBarPosition": "LAYER2"
+      }
+    },
+    "waypoints": {
+      "enableWaypoints": true,
+      "waypointType": "WAYPOINT",
+      "renderLine": true,
+      "lineColor": -16711936,
+      "lineWidth": 5.0,
+      "allowSkippingWaypoints": true,
+      "allowGoingBackwards": true,
+      "waypointActivationRadius": 2.0,
+      "enableChatWaypoints": true
+    },
+    "teleportOverlay": {
+      "enableTeleportOverlays": false,
+      "showWhenInAir": false,
+      "teleportOverlayColor": 2138445204,
+      "enableWeirdTransmission": false,
+      "enableInstantTransmission": false,
+      "enableEtherTransmission": true,
+      "enableSinrecallTransmission": false,
+      "enableWitherImpact": false
+    },
+    "smoothAOTE": {
+      "predictive": false,
+      "enableWeirdTransmission": false,
+      "enableInstantTransmission": false,
+      "enableEtherTransmission": false,
+      "enableSinrecallTransmission": false,
+      "enableWitherImpact": false,
+      "maximumAddedLag": 100
+    },
+    "searchOverlay": {
+      "enableBazaar": true,
+      "enableAuctionHouse": true,
+      "enableMuseum": true,
+      "keepPreviousSearches": false,
+      "maxSuggestions": 3,
+      "historyLength": 3,
+      "enableCommands": false,
+      "bazaarHistory": [
+        "Starlyn Prize",
+        "Titanic Experience Bottle",
+        "Mangrove Gem"
+      ],
+      "auctionHistory": [
+        "Jade Dragon",
+        "precursor",
+        "squeaky"
+      ],
+      "museumHistory": [
+        "Moody Grappleshot",
+        "party",
+        "carnival"
+      ]
+    },
+    "bazaarQuickQuantities": {
+      "enabled": false,
+      "closeSignOnUse": false,
+      "slot1Quantity": 28,
+      "slot2Quantity": 2240,
+      "slot3Quantity": 256
+    },
+    "inputCalculator": {
+      "enabled": true,
+      "requiresEquals": false,
+      "closeSignsWithEnter": true
+    },
+    "flameOverlay": {
+      "flameHeight": 100,
+      "flameOpacity": 100
+    },
+    "compactDamage": {
+      "enabled": true,
+      "maxPrecision": 4,
+      "normalDamageColor": -1,
+      "critDamageGradientStart": -171,
+      "critDamageGradientEnd": -43691
+    },
+    "healthBars": {
+      "enabled": false,
+      "scale": 1.5,
+      "removeHealthFromName": true,
+      "removeMaxHealthFromName": true,
+      "applyToHealthOnlyMobs": true,
+      "hideFullHealth": false,
+      "fullBarColor": -16711936,
+      "halfBarColor": -256,
+      "emptyBarColor": -65536
+    },
+    "gyroOverlay": {
+      "gyroOverlayMode": "OFF",
+      "gyroOverlayColor": 2138445204
+    },
+    "itemPickup": {
+      "enabled": false,
+      "sackNotifications": false,
+      "showItemName": true,
+      "lifeTime": 3,
+      "splitNotifications": false
+    }
+  },
+  "helpers": {
+    "enableNewYearCakesHelper": true,
+    "enableBitsTooltip": true,
+    "enableWardrobeHelper": true,
+    "enableDateCalculator": true,
+    "enableCopyUnderbidPrice": false,
+    "enableAnvilHelper": true,
+    "enableAccessoriesHelperWidget": true,
+    "buildersWand": {
+      "enableBuildersWandPreview": true,
+      "previewOpacity": 0.5
+    },
+    "mythologicalRitual": {
+      "enableMythologicalRitualHelper": false
+    },
+    "jerry": {
+      "enableJerryTimer": false
+    },
+    "experiments": {
+      "enableChronomatronSolver": false,
+      "enableSuperpairsSolver": false,
+      "enableUltrasequencerSolver": false,
+      "blockIncorrectClicks": false
+    },
+    "fishing": {
+      "enableFishingHelper": false,
+      "enableFishingTimer": false,
+      "hideOtherPlayersRods": false,
+      "enableFishingHud": false,
+      "fishingHudEnabledLocations": [
+        "PRIVATE_ISLAND",
+        "GARDEN",
+        "HUB",
+        "THE_FARMING_ISLAND",
+        "THE_PARK",
+        "SPIDERS_DEN",
+        "BLAZING_FORTRESS",
+        "THE_END",
+        "CRIMSON_ISLE",
+        "GOLD_MINE",
+        "DEEP_CAVERNS",
+        "DWARVEN_MINES",
+        "BACKWATER_BAYOU",
+        "DUNGEON_HUB",
+        "WINTER_ISLAND",
+        "THE_RIFT",
+        "DARK_AUCTION",
+        "CRYSTAL_HOLLOWS",
+        "DUNGEON",
+        "KUUDRAS_HOLLOW",
+        "GLACITE_MINESHAFTS",
+        "GALATEA",
+        "UNKNOWN"
+      ],
+      "enableSeaCreatureCounter": false,
+      "fishingHookDisplay": "HUD",
+      "onlyShowHudInBarn": true,
+      "timerLength": 340,
+      "seaCreatureTimerNotification": true,
+      "seaCreatureCap": 30,
+      "seaCreatureCapNotification": true,
+      "minimumNotificationRarity": "EPIC"
+    },
+    "fairySouls": {
+      "enableFairySoulsHelper": false,
+      "highlightFoundSouls": true,
+      "highlightOnlyNearbySouls": false
+    },
+    "chocolateFactory": {
+      "enableChocolateFactoryHelper": true,
+      "enableTimeTowerReminder": true,
+      "straySound": true,
+      "enableEggFinder": true,
+      "sendEggFoundMessages": true,
+      "waypointType": "OUTLINED_WAYPOINT",
+      "showThroughWalls": true
+    },
+    "carnival": {
+      "catchAFishHelper": true,
+      "zombieShootoutHelper": true
+    },
+    "bazaar": {
+      "enableBazaarHelper": true,
+      "enableReorderHelper": true,
+      "enableOrderTracker": true
+    },
+    "itemPrice": {
+      "enableItemPriceLookup": true,
+      "enableItemPriceRefresh": true
+    },
+    "greatSpookEvent": {
+      "enableMathTeacherHelper": true
+    }
+  },
+  "dungeons": {
+    "fancyPartyFinder": false,
+    "croesusHelper": true,
+    "salvageHelper": true,
+    "onlyHighlightDonatedItems": true,
+    "sellableItemsHighlighter": true,
+    "bloodCampHelper": false,
+    "playerSecretsTracker": false,
+    "classBasedPlayerGlow": false,
+    "starredMobGlow": false,
+    "starredMobBoundingBoxes": false,
+    "highlightDoorKeys": false,
+    "allowDroppingProtectedItems": false,
+    "dungeonSplits": false,
+    "hideSoulweaverSkulls": true,
+    "dungeonMap": {
+      "enableMap": false,
+      "fancyMap": false,
+      "showSelfHead": true,
+      "showRoomLabels": true,
+      "roomLabelType": "ROOM_NAME_AND_SECRETS_FOUND",
+      "hideCheckmarks": true,
+      "showOutline": true,
+      "backgroundBlur": false,
+      "mapScaling": 1.0,
+      "mapX": 2,
+      "mapY": 2
+    },
+    "leapOverlay": {
+      "enableLeapOverlay": false,
+      "leapKeybinds": false,
+      "showMap": true,
+      "scale": 1.2,
+      "enableLeapMessage": false,
+      "leapMessage": "Leaped to [name]!"
+    },
+    "puzzleSolvers": {
+      "solveTicTacToe": true,
+      "solveThreeWeirdos": false,
+      "creeperSolver": false,
+      "waterboardOneFlow": false,
+      "previewWaterPath": false,
+      "previewLeverEffects": false,
+      "blazeSolver": false,
+      "solveBoulder": false,
+      "solveIceFill": true,
+      "solveSilverfish": true,
+      "solveTrivia": false,
+      "solveTeleportMaze": false
+    },
+    "theProfessor": {
+      "fireFreezeStaffTimer": false,
+      "floor3GuardianHealthDisplay": false
+    },
+    "livid": {
+      "enableSolidColor": false,
+      "customColor": -65536,
+      "enableLividColorGlow": false,
+      "enableLividColorBoundingBox": true,
+      "enableLividColorText": true,
+      "enableLividColorTitle": true,
+      "lividColorText": "The livid color is [color]"
+    },
+    "terminals": {
+      "solveColor": false,
+      "solveSameColor": false,
+      "solveOrder": false,
+      "solveStartsWith": false,
+      "blockIncorrectClicks": false
+    },
+    "devices": {
+      "solveSimonSays": false,
+      "solveLightsOn": false,
+      "solveArrowAlign": false,
+      "solveTargetPractice": false
+    },
+    "goldor": {
+      "enableGoldorWaypoints": false,
+      "waypointType": "WAYPOINT"
+    },
+    "terminalHud": {
+      "enableTerminalHud": false,
+      "showTerminalStatus": true,
+      "showPlayerAtTerminal": true,
+      "showTerminals": true,
+      "showDevice": true,
+      "showLevers": true,
+      "showGate": true
+    },
+    "secretWaypoints": {
+      "enableSecretWaypoints": false,
+      "waypointType": "WAYPOINT",
+      "adaptiveBoxSize": false,
+      "showSecretText": true,
+      "enableEntranceWaypoints": true,
+      "enableSuperboomWaypoints": true,
+      "enableChestWaypoints": true,
+      "enableItemWaypoints": true,
+      "enableBatWaypoints": true,
+      "enableWitherWaypoints": true,
+      "enableRedstoneKeyWaypoints": true,
+      "enableLeverWaypoints": true,
+      "enableFairySoulWaypoints": true,
+      "enableStonkWaypoints": true,
+      "enableAotvWaypoints": true,
+      "enablePearlWaypoints": true,
+      "enablePrinceWaypoints": true,
+      "enableDefaultWaypoints": true
+    },
+    "secretSync": {
+      "receiveRoomMatch": true,
+      "receiveRoomSecretCount": true,
+      "hideReceivedWaypoints": true
+    },
+    "rareRoomAlert": {
+      "enabled": false,
+      "showForTrinity": true,
+      "showForTomioka": false,
+      "showForDuncan": false
+    },
+    "mimicMessage": {
+      "sendMimicMessage": true
+    },
+    "princeMessage": {
+      "sendPrinceMessage": true
+    },
+    "doorHighlight": {
+      "enableDoorHighlight": false,
+      "doorHighlightType": "OUTLINED_HIGHLIGHT"
+    },
+    "dungeonScore": {
+      "enableDungeonScore270Message": false,
+      "enableDungeonScore270Title": false,
+      "enableDungeonScore270Sound": false,
+      "dungeonScore270Message": "270 Score Reached!",
+      "enableDungeonScore300Message": false,
+      "enableDungeonScore300Title": true,
+      "enableDungeonScore300Sound": false,
+      "dungeonScore300Message": "300 Score Reached!",
+      "enableDungeonCryptsMessage": true,
+      "dungeonCryptsMessageThreshold": 250,
+      "dungeonCryptsMessage": "Crypts: [crypts]/5",
+      "enableScoreHUD": true,
+      "scoreX": 29,
+      "scoreY": 134,
+      "scoreScaling": 1.0
+    },
+    "dungeonChestProfit": {
+      "enableProfitCalculator": true,
+      "includeKismet": false,
+      "includeEssence": true,
+      "croesusProfit": true,
+      "neutralThreshold": 1000,
+      "neutralColor": "DARK_GRAY",
+      "profitColor": "DARK_GREEN",
+      "lossColor": "RED",
+      "incompleteColor": "BLUE"
+    }
+  },
+  "foraging": {
+    "galatea": {
+      "enableForestNodeHelper": true,
+      "solveForestTemplePuzzle": true,
+      "enableLushlilacHighlighter": true,
+      "enableSeaLumiesHighlighter": true,
+      "seaLumiesMinimumCount": 3,
+      "enableTreeBreakProgress": false,
+      "enableTunerSolver": true,
+      "enableSweepDetailsWidget": false
+    },
+    "sweepOverlay": {
+      "enableSweepOverlay": true,
+      "enableThrownAbilityOverlay": true,
+      "sweepOverlayColor": 1090491904
+    }
+  },
+  "crimsonIsle": {
+    "kuudra": {
+      "supplyWaypoints": true,
+      "fuelWaypoints": true,
+      "suppliesAndFuelWaypointType": "WAYPOINT",
+      "ballistaBuildWaypoints": true,
+      "safeSpotWaypoints": true,
+      "pearlWaypoints": true,
+      "noArrowPoisonWarning": true,
+      "arrowPoisonThreshold": 32,
+      "kuudraGlow": true,
+      "dangerWarning": true
+    },
+    "dojo": {
+      "enableForceHelper": true,
+      "enableStaminaHelper": true,
+      "enableMasteryHelper": true,
+      "enableDisciplineHelper": true,
+      "enableSwiftnessHelper": true,
+      "enableControlHelper": true,
+      "enableTenacityHelper": true
+    },
+    "extendNetherFog": true
+  },
+  "mining": {
+    "enableDrillFuel": true,
+    "commissionHighlight": true,
+    "callMismyla": true,
+    "redialOnBadSignal": true,
+    "enablePickobulusHelper": true,
+    "pickobulusHelper": {
+      "enablePickobulusHud": true,
+      "hideHudOnCooldown": false
+    },
+    "dwarvenMines": {
+      "solveFetchur": true,
+      "solvePuzzler": true,
+      "enableCarpetHighlighter": true,
+      "carpetHighlightColor": 1291780096
+    },
+    "crystalHollows": {
+      "metalDetectorHelper": true,
+      "nucleusWaypoints": false,
+      "chestHighlighter": true,
+      "chestHighlightColor": -2147483393,
+      "enablePowderTracker": true,
+      "countNaturalChestsInTracker": true,
+      "powderTrackerFilter": []
+    },
+    "crystalsHud": {
+      "enabled": false,
+      "showLocations": true,
+      "locationSize": 8,
+      "x": 10,
+      "y": 130,
+      "mapScaling": 1.0
+    },
+    "crystalsWaypoints": {
+      "enabled": false,
+      "findInChat": true,
+      "wishingCompassSolver": true,
+      "shareFairyGrotto": true
+    },
+    "commissionWaypoints": {
+      "mode": "BOTH",
+      "useColor": true,
+      "showBaseCamp": false,
+      "showEmissary": true,
+      "hideEmissaryOnPigeon": true
+    },
+    "glacite": {
+      "coldOverlay": true,
+      "fossilSolver": true,
+      "enableCorpseFinder": true,
+      "enableParsingChatCorpseFinder": true,
+      "autoShareCorpses": false,
+      "enableCorpseProfitTracker": true,
+      "forceEnglishCorpseProfitTracker": true
+    },
+    "blockBreakPrediction": {
+      "enabled": false,
+      "playSound": false
+    }
+  },
+  "farming": {
+    "farmingHud": {
+      "enabled": false,
+      "type": "BOTH"
+    },
+    "pestHighlighter": {
+      "enabled": true,
+      "vinylHighlighter": true,
+      "enableStereoHarmonyHelperForContest": true
+    },
+    "mouseLock": {
+      "lockMouseTool": true,
+      "lockMouseGroundOnly": false
+    },
+    "plotsWidget": {
+      "enabled": true,
+      "closeScreenOnPlotClick": false
+    },
+    "visitorHelper": {
+      "enabled": true,
+      "showInGardenOnly": true,
+      "showInStacks": false
+    }
+  },
+  "hunting": {
+    "huntingBox": {
+      "enabled": true
+    },
+    "huntingMobs": {
+      "silencePhantoms": true,
+      "highlightHideonleaf": true,
+      "hideonleafGlowColor": -256,
+      "highlightShellwise": true,
+      "shellwiseGlowColor": -38881,
+      "highlightCoralot": true,
+      "coralotGlowColor": -16776961
+    },
+    "lassoHud": {
+      "enabled": false
+    }
+  },
+  "otherLocations": {
+    "barn": {
+      "enableGlowingMushroomHelper": true,
+      "solveHungryHiker": true,
+      "solveTreasureHunter": true,
+      "enableCallTrevorMessage": true,
+      "enablePeltAnimalHighlighter": true
+    },
+    "rift": {
+      "mirrorverseWaypoints": true,
+      "blobbercystGlow": true,
+      "enigmaSoulWaypoints": false,
+      "highlightFoundEnigmaSouls": true,
+      "mcGrubberStacks": 0
+    },
+    "end": {
+      "enableEnderNodeHelper": true,
+      "enderNodeWaypointType": "OUTLINED_HIGHLIGHT",
+      "hudEnabled": false,
+      "zealotKillsEnabled": true,
+      "protectorLocationEnabled": true,
+      "waypoint": true,
+      "muteEndermanSounds": false,
+      "x": 10,
+      "y": 10
+    },
+    "spidersDen": {
+      "relics": {
+        "enableRelicsHelper": false,
+        "highlightFoundRelics": true
+      }
+    }
+  },
+  "slayers": {
+    "highlightMinis": "GLOW",
+    "highlightBosses": "GLOW",
+    "highlightColor": -47104,
+    "displayBossbar": false,
+    "bossSpawnAlert": false,
+    "miniBossSpawnAlert": false,
+    "alertOtherMinibosses": false,
+    "showMiniBossNameInAlert": false,
+    "slainTime": true,
+    "enableHud": false,
+    "hideSlayerMinibossSpawn": "PASS",
+    "highlightUnclaimedRewards": true,
+    "callMaddox": {
+      "sendMessageOnFail": true,
+      "sendMessageOnKill": false
+    },
+    "endermanSlayer": {
+      "enableYangGlyphsNotification": false,
+      "highlightBeacons": false,
+      "highlightNukekubiHeads": false,
+      "lazerTimer": false
+    },
+    "vampireSlayer": {
+      "enableEffigyWaypoints": false,
+      "compactEffigyWaypoints": false,
+      "effigyUpdateFrequency": 5,
+      "enableHolyIceIndicator": true,
+      "holyIceIndicatorTickDelay": 5,
+      "holyIceUpdateFrequency": 5,
+      "enableHealingMelonIndicator": false,
+      "healingMelonHealthThreshold": 4.0,
+      "enableSteakStakeIndicator": false,
+      "steakStakeUpdateFrequency": 5,
+      "enableManiaIndicator": false,
+      "maniaUpdateFrequency": 5
+    },
+    "blazeSlayer": {
+      "firePillarCountdown": "SOUND_AND_VISUAL",
+      "attunementHighlights": false,
+      "muteBlazeSounds": false,
+      "hideHellionShield": "PASS"
+    },
+    "wolfSlayer": {
+      "muteWolfSounds": true,
+      "hideSvenPupNametag": true
+    },
+    "spiderSlayer": {
+      "muteSpiderSounds": true
+    }
+  },
+  "chat": {
+    "skyblockXpMessages": false,
+    "confirmationPromptHelper": false,
+    "toastDisplayDuration": 4.0,
+    "hideAbility": "PASS",
+    "hideHeal": "PASS",
+    "hideAOTE": "PASS",
+    "hideImplosion": "PASS",
+    "hideMoltenWave": "PASS",
+    "hideAds": "PASS",
+    "hideTeleportPad": "PASS",
+    "hideCombo": "PASS",
+    "hideAutopet": "PASS",
+    "hideShowOff": "PASS",
+    "hideToggleSkyMall": "PASS",
+    "hideToggleLottery": "PASS",
+    "hideMimicKill": "PASS",
+    "hideDeath": "PASS",
+    "hideMana": false,
+    "hideDungeonBreaker": "PASS",
+    "chatRuleConfig": {
+      "announcementLength": 60
+    }
+  },
+  "quickNav": {
+    "enableQuickNav": false,
+    "button1": {
+      "render": true,
+      "doubleClick": false,
+      "itemData": {
+        "item": "minecraft:diamond_sword",
+        "count": 1,
+        "components": "[]"
+      },
+      "uiTitle": "Your Skills",
+      "tooltip": "Skills",
+      "clickEvent": "/skills"
+    },
+    "button2": {
+      "render": true,
+      "doubleClick": false,
+      "itemData": {
+        "item": "minecraft:painting",
+        "count": 1,
+        "components": "[]"
+      },
+      "uiTitle": "Collections",
+      "tooltip": "Collections",
+      "clickEvent": "/collection"
+    },
+    "button3": {
+      "render": true,
+      "doubleClick": false,
+      "itemData": {
+        "item": "minecraft:bone",
+        "count": 1,
+        "components": "[]"
+      },
+      "uiTitle": "Pets(?: \\(\\d+/\\d+\\))?",
+      "tooltip": "Pets",
+      "clickEvent": "/pets"
+    },
+    "button4": {
+      "render": true,
+      "doubleClick": false,
+      "itemData": {
+        "item": "minecraft:leather_chestplate",
+        "count": 1,
+        "components": "[minecraft:dyed_color\u003d8991416]"
+      },
+      "uiTitle": "Wardrobe \\(\\d+/\\d+\\)",
+      "tooltip": "Wardrobe",
+      "clickEvent": "/wardrobe"
+    },
+    "button5": {
+      "render": true,
+      "doubleClick": false,
+      "itemData": {
+        "item": "minecraft:player_head",
+        "count": 1,
+        "components": "[minecraft:profile\u003d{id:[I;-2081424676,-57521078,-2073572414,158072763],name:\"\",properties:[{name:\"textures\",value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5MTMxMDU4NTYwOSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODBhMDc3ZTI0OGQxNDI3NzJlYTgwMDg2NGY4YzU3OGI5ZDM2ODg1YjI5ZGFmODM2YjY0YTcwNjg4MmI2ZWMxMCIKICAgIH0KICB9Cn0\u003d\"}]}]"
+      },
+      "uiTitle": "Sack of Sacks",
+      "tooltip": "Sacks",
+      "clickEvent": "/sacks"
+    },
+    "button6": {
+      "render": true,
+      "doubleClick": false,
+      "itemData": {
+        "item": "minecraft:player_head",
+        "count": 1,
+        "components": "[minecraft:profile\u003d{name:\"5da6bec64bd942bc\",id:[I;1571208902,1272529596,-1566400349,-679283814],properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTYxYTkxOGMwYzQ5YmE4ZDA1M2U1MjJjYjkxYWJjNzQ2ODkzNjdiNGQ4YWEwNmJmYzFiYTkxNTQ3MzA5ODVmZiJ9fX0\u003d\"}]}]"
+      },
+      "uiTitle": "Accessory Bag(?: \\(\\d/\\d\\))?",
+      "tooltip": "Accessories",
+      "clickEvent": "/accessories"
+    },
+    "button7": {
+      "render": true,
+      "doubleClick": false,
+      "itemData": {
+        "item": "minecraft:ender_chest",
+        "count": 1,
+        "components": "[]"
+      },
+      "uiTitle": "(?:Rift )?Storage(?: \\(\\d/\\d\\))?",
+      "tooltip": "Storage",
+      "clickEvent": "/storage"
+    },
+    "button8": {
+      "render": true,
+      "doubleClick": true,
+      "itemData": {
+        "item": "minecraft:player_head",
+        "count": 1,
+        "components": "[minecraft:profile\u003d{name:\"421a8ef40eff47f4\",id:[I;1109036788,251611124,-2126904485,-130621758],properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzljODg4MWU0MjkxNWE5ZDI5YmI2MWExNmZiMjZkMDU5OTEzMjA0ZDI2NWRmNWI0MzliM2Q3OTJhY2Q1NiJ9fX0\u003d\"}]}]"
+      },
+      "uiTitle": "none",
+      "tooltip": "Home",
+      "clickEvent": "/is"
+    },
+    "button9": {
+      "render": true,
+      "doubleClick": true,
+      "itemData": {
+        "item": "minecraft:player_head",
+        "count": 1,
+        "components": "[minecraft:profile\u003d{name:\"e30e30d02878417c\",id:[I;-485609264,678969724,-1929747597,-718202427],properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjQ4ODBkMmMxZTdiODZlODc1MjJlMjA4ODI2NTZmNDViYWZkNDJmOTQ5MzJiMmM1ZTBkNmVjYWE0OTBjYjRjIn19fQ\u003d\u003d\"}]}]"
+      },
+      "uiTitle": "none",
+      "tooltip": "Garden",
+      "clickEvent": "/warp garden"
+    },
+    "button10": {
+      "render": true,
+      "doubleClick": true,
+      "itemData": {
+        "item": "minecraft:player_head",
+        "count": 1,
+        "components": "[minecraft:profile\u003d{id:[I;-300151517,-631415889,-1193921967,-1821784279],name:\"\",properties:[{name:\"textures\",value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdjYzY2ODc0MjNkMDU3MGQ1NTZhYzUzZTA2NzZjYjU2M2JiZGQ5NzE3Y2Q4MjY5YmRlYmVkNmY2ZDRlN2JmOCJ9fX0\u003d\"}]}]"
+      },
+      "uiTitle": "none",
+      "tooltip": "Skyblock Hub",
+      "clickEvent": "/hub"
+    },
+    "button11": {
+      "render": true,
+      "doubleClick": true,
+      "itemData": {
+        "item": "minecraft:player_head",
+        "count": 1,
+        "components": "[minecraft:profile\u003d{id:[I;1605800870,415127827,-1236127084,15358548],name:\"\",properties:[{name:\"textures\",value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg5MWQ1YjI3M2ZmMGJjNTBjOTYwYjJjZDg2ZWVmMWM0MGExYjk0MDMyYWU3MWU3NTQ3NWE1NjhhODI1NzQyMSJ9fX0\u003d\"}]}]"
+      },
+      "uiTitle": "none",
+      "tooltip": "Dungeons Hub",
+      "clickEvent": "/warp dungeon_hub"
+    },
+    "button12": {
+      "render": true,
+      "doubleClick": false,
+      "itemData": {
+        "item": "minecraft:gold_block",
+        "count": 1,
+        "components": "[]"
+      },
+      "uiTitle": "Auction House",
+      "tooltip": "Auction House",
+      "clickEvent": "/ah"
+    },
+    "button13": {
+      "render": true,
+      "doubleClick": false,
+      "itemData": {
+        "item": "minecraft:player_head",
+        "count": 1,
+        "components": "[minecraft:profile\u003d{id:[I;-562285948,532499670,-1705302742,775653035],name:\"\",properties:[{name:\"textures\",value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmZlMmRjZGE0MWVjM2FmZjhhZjUwZjI3MmVjMmUwNmE4ZjUwOWUwZjgwN2YyMzU1YTFmNWEzM2MxYjY2ZTliNCJ9fX0\u003d\"}]}]"
+      },
+      "uiTitle": "Bazaar .*",
+      "tooltip": "Bazaar",
+      "clickEvent": "/bz"
+    },
+    "button14": {
+      "render": true,
+      "doubleClick": false,
+      "itemData": {
+        "item": "minecraft:crafting_table",
+        "count": 1,
+        "components": "[]"
+      },
+      "uiTitle": "Craft Item",
+      "tooltip": "Crafting Table",
+      "clickEvent": "/craft"
+    }
+  },
+  "eventNotifications": {
+    "criterion": "SKYBLOCK",
+    "reminderSound": "PLING",
+    "events": {
+      "Bonus Fishing Festival": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Traveling Zoo": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Bonus Mining Fiesta": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Jerry\u0027s Workshop Opens": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Hoppity\u0027s Hunt Begins": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Jacob\u0027s Farming Contest": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Dark Auction": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "New Year Celebration": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Spooky Festival": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Election Booth Closes": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Season of Jerry": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Election Booth Opens": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Election Over!": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Cult of the Fallen Star": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      }
+    }
+  },
+  "misc": {
+    "richPresence": {
+      "enableRichPresence": true,
+      "info": "LOCATION",
+      "cycleMode": true,
+      "customMessage": "Playing Skyblock"
+    },
+    "configBackend": "MOUL_CONFIG",
+    "cat": true
+  },
+  "debug": {
+    "dumpRange": 5,
+    "dumpFormat": "SNBT",
+    "showInvisibleArmorStands": false,
+    "webSocketDebug": false,
+    "corpseFinderDebug": false
+  }
+}

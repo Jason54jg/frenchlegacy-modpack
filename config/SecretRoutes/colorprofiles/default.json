@@ -1,0 +1,113 @@
+{
+  "etherwarpsTextSize": 3.0,
+  "superboomsWaypointColorIndex": 12,
+  "renderSecretsItem": true,
+  "interactsTextSize": 3.0,
+  "renderSuperboom": true,
+  "enderpearls": {
+    "hue": 0.5,
+    "saturation": 1.0,
+    "brightness": 1.0,
+    "alpha": 1.0
+  },
+  "exitWaypointColorIndex": 12,
+  "interacts": {
+    "hue": 0.6666667,
+    "saturation": 1.0,
+    "brightness": 1.0,
+    "alpha": 1.0
+  },
+  "superboomsTextSize": 3.0,
+  "startTextSize": 3.0,
+  "interactsEnumToggle": false,
+  "renderEtherwarps": true,
+  "exitTextToggle": true,
+  "superboomsEnumToggle": false,
+  "pearlLineColor": {
+    "hue": 0.5,
+    "saturation": 1.0,
+    "brightness": 1.0,
+    "alpha": 1.0
+  },
+  "minesTextToggle": false,
+  "minesEnumToggle": false,
+  "enderpearlTextToggle": true,
+  "enderpearlFullBlock": false,
+  "itemTextSize": 3.0,
+  "interactTextSize": 3.0,
+  "enderpearlWaypointColorIndex": 11,
+  "lineColor": {
+    "hue": 0.0,
+    "saturation": 1.0,
+    "brightness": 1.0,
+    "alpha": 1.0
+  },
+  "renderEnderpearls": true,
+  "superboomsFullBlock": false,
+  "etherwarpsWaypointColorIndex": 5,
+  "secretsItemFullBlock": false,
+  "renderInteracts": true,
+  "itemTextToggle": true,
+  "startWaypointColorIndex": 12,
+  "minesTextSize": 3.0,
+  "itemWaypointColorIndex": 11,
+  "secretsItem": {
+    "hue": 0.5,
+    "saturation": 1.0,
+    "brightness": 1.0,
+    "alpha": 1.0
+  },
+  "interactWaypointColorIndex": 9,
+  "batWaypointColorIndex": 10,
+  "secretsBatFullBlock": false,
+  "interactsWaypointColorIndex": 9,
+  "etherwarpsEnumToggle": false,
+  "interactsFullBlock": false,
+  "etherwarpsTextToggle": false,
+  "enderpearlEnumToggle": false,
+  "secretsBat": {
+    "hue": 0.33333334,
+    "saturation": 1.0,
+    "brightness": 1.0,
+    "alpha": 1.0
+  },
+  "superboomsTextToggle": false,
+  "secretsInteractFullBlock": false,
+  "mine": {
+    "hue": 0.16666667,
+    "saturation": 1.0,
+    "brightness": 1.0,
+    "alpha": 1.0
+  },
+  "interactTextToggle": true,
+  "batTextToggle": true,
+  "renderSecretIteract": true,
+  "interactsTextToggle": false,
+  "batTextSize": 3.0,
+  "enderpearlTextSize": 3.0,
+  "secretsInteract": {
+    "hue": 0.6666667,
+    "saturation": 1.0,
+    "brightness": 1.0,
+    "alpha": 1.0
+  },
+  "startTextToggle": true,
+  "mineFullBlock": false,
+  "renderMines": true,
+  "superbooms": {
+    "hue": 0.0,
+    "saturation": 1.0,
+    "brightness": 1.0,
+    "alpha": 1.0
+  },
+  "etherWarp": {
+    "hue": 0.8333333,
+    "saturation": 1.0,
+    "brightness": 0.5019608,
+    "alpha": 1.0
+  },
+  "minesWaypointColorIndex": 14,
+  "renderSecretBat": true,
+  "exitTextSize": 3.0,
+  "etherwarpFullBlock": false
+}

@@ -1,0 +1,35 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2715e991-1b1b-46d4-9757-7c78a9356f5c": {
+      "Cucumber": {
+        "slayers": {
+          "TARANTULA_BROODFATHER": {
+            "xp": 1527435,
+            "meterXp": 89600
+          },
+          "SVEN_PACKMASTER": {
+            "xp": 2281830,
+            "meterXp": 0
+          },
+          "VOIDGLOOM_SERAPH": {
+            "xp": 1000771,
+            "meterXp": 34000
+          },
+          "REVENANT_HORROR": {
+            "xp": 2840465,
+            "meterXp": 0
+          },
+          "RIFTSTALKER_BLOODFIEND": {
+            "xp": 3370,
+            "meterXp": 0
+          },
+          "INFERNO_DEMONLORD": {
+            "xp": 1000504,
+            "meterXp": 0
+          }
+        }
+      }
+    }
+  }
+}

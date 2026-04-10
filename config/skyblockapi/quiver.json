@@ -1,0 +1,13 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2715e991-1b1b-46d4-9757-7c78a9356f5c": {
+      "Cucumber": {
+        "current": "ARMORSHRED_ARROW",
+        "arrows": {
+          "ARMORSHRED_ARROW": 2390
+        }
+      }
+    }
+  }
+}
